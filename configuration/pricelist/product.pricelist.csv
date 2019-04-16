@@ -1,0 +1,6 @@
+id,active,name,discount_policy,sequence
+product.list0,False,Public Pricelist,Discount included in the price,1
+init.product_pricelist_Insurance_Emergency,True,Insurance Pay - Emergency,Discount included in the price,16
+init.product_pricelist_Insurance_Selective,True,Insurance Pay - Selective Case,Discount included in the price,16
+init.product_pricelist_Self_Emergency,True,Self Pay - Emergency,Discount included in the price,16
+init.product_pricelist_Self_selective,True,Self Pay - Selective Case,Discount included in the price,16
