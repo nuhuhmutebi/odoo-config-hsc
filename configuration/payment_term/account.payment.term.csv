@@ -1,5 +1,3 @@
-id,active,company_id/id,name,line_ids/days,line_ids/value,line_ids/value_amount,line_ids/sequence,note
-account.account_payment_term_15days,FALSE,base.main_company,15 Days,15,Balance,0,500,Payment term: 15 Days
-account.account_payment_term_net,FALSE,base.main_company,30 Net Days,30,Balance,0,500,Payment term: 30 Net Days
-init.account_payment_term_30days,TRUE,base.main_company,30 Days,30,Balance,0,500,Payment term: 30 Days
-init.account_payment_term_60days,TRUE,base.main_company,60 Days,60,Balance,0,500,Payment term: 60 Days
+"id","name","company_id/id","line_ids/days","line_ids/option","line_ids/sequence","line_ids/value","line_ids/value_amount"
+"init.account_payment_term_60days","60 Days","base.main_company","60","Day(s) after the invoice date","500","Balance","0.0"
+"account.account_payment_term_90days","90 Days","base.main_company","90","Day(s) after the invoice date","10","Balance","0.0"
