@@ -1,2 +1,5 @@
 "id","name","code","type"
-"init.sale_journal","Sale Journal","SALE","Sale"
+"init.cash_journal","cash","CASH","Sale"
+"init.bank_journal","bank","BNK","Sale"
+"init.credit_card_journal","credit card","CC","Sale"
+"init.cheque_journal","cheque","CHK","Sale"
