@@ -1,5 +1,359 @@
-"id","name","discount_policy","sequence","item_ids/applied_on","item_ids/base","item_ids/compute_price","item_ids/min_quantity","currency_id/id"
-"init.product_pricelist_Insurance_Emergency","Insurance Pay - Emergency","Discount included in the price","16","Global","Public Price","Percentage (discount)","1","base.HTG"
-"init.product_pricelist_Insurance_Selective","Insurance Pay - Selective Case","Discount included in the price","16","Global","Public Price","Percentage (discount)","1","base.HTG"
-"init.product_pricelist_Self_Emergency","Self Pay - Emergency","Discount included in the price","16","Global","Public Price","Percentage (discount)","1","base.HTG"
-"init.product_pricelist_Self_selective","Self Pay - Selective Case","Discount included in the price","16","Global","Public Price","Percentage (discount)","1","base.HTG"
+id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_tmpl_id/id
+init.product_pricelist_Self_selective,Self Pay - Selective Case,Discount included in the price,16,base.HTG,Global,Public Price,Percentage (discount),1,,
+init.product_pricelist_Self_Emergency,Self Pay - Emergency,Discount included in the price,16,base.HTG,Product,Public Price,Fix Price,1,300,hsc_AcideUrique
+,,,,,Product,Public Price,Fix Price,1,300,hsc_AnthraxCutané-SkinTest
+,,,,,Product,Public Price,Fix Price,1,300,hsc_AnthraxGastrointestinal-BloodTestorStoolTest
+,,,,,Product,Public Price,Fix Price,1,300,hsc_ADT(SGPT)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Albumine
+,,,,,Product,Public Price,Fix Price,1,450,hsc_Amylase
+,,,,,Product,Public Price,Fix Price,1,300,hsc_ASO(AntistreptolysineO)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_AST(SGOT)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_AzotedelUrée(BUN)
+,,,,,Product,Public Price,Fix Price,1,250,hsc_BHCG
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_BilanHépatique(AST-ALT-TBil-ALKP-LDH)
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_BilanLipidique(Chol-Trig-HDLC-LDL-VLDL)
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_BilanPré-Opératoire(Hemogramme-ABO&RB-PT&INR)
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_BilanRenal(BUN-Creat-Urée-AcideUrique)
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_BilanThyroïdien
+,,,,,Product,Public Price,Fix Price,1,300,hsc_BilirubineTotale
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Calcium(Ca)
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_ChimieSanguine(Glycemie-BUN-Urée-Créatine)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Chlore(Cl)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Cholesterol
+,,,,,Product,Public Price,Fix Price,1,400,hsc_CO₂
+,,,,,Product,Public Price,Fix Price,1,400,hsc_Crachat
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Créatinine(CRSC)
+,,,,,Product,Public Price,Fix Price,1,450,hsc_CréatinineKinase(CK)
+,,,,,Product,Public Price,Fix Price,1,450,hsc_CréatinineKinaseMB
+,,,,,Product,Public Price,Fix Price,1,300,hsc_CRP
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_ECBCdesLiquides(TP-ALB-LDH-GLU-WBC-RBC-Diff…)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Fer(Fe)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FilairetestDiurne
+,,,,,Product,Public Price,Fix Price,1,350,hsc_FilairetestNocturne
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FrottisUretral+Gouttependante
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FrottisVaginal+Gouttependante
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlobulesBlanches
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlobulesRouges
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlycemieCapillaire
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlycemiePlasmatique
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Gravindex
+,,,,,Product,Public Price,Fix Price,1,300,"hsc_GroupeSanguin(ABO,Rh)"
+,,,,,Product,Public Price,Fix Price,1,300,hsc_HemogrammeComplet
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_H-Piloridanslesselles
+,,,,,Product,Public Price,Fix Price,1,750,hsc_H-Piloritest
+,,,,,Product,Public Price,Fix Price,1,1300,"hsc_Ionogramme(Na,K,Cl,CO₂)"
+,,,,,Product,Public Price,Fix Price,1,250,hsc_LamePeripherique
+,,,,,Product,Public Price,Fix Price,1,450,hsc_LDH
+,,,,,Product,Public Price,Fix Price,1,500,hsc_Lipase
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Magnesium(Mg)
+,,,,,Product,Public Price,Fix Price,1,200,hsc_Malariatest
+,,,,,Product,Public Price,Fix Price,1,200,hsc_Mantouxtest
+,,,,,Product,Public Price,Fix Price,1,400,hsc_PhosphataseAlcaline(ALKP)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_PlaquettesSanguines
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Potassium(K)
+,,,,,Product,Public Price,Fix Price,1,500,hsc_ProteineSerique
+,,,,,Product,Public Price,Fix Price,1,350,hsc_ProteineTotale
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_PSA
+,,,,,Product,Public Price,Fix Price,1,400,hsc_PT-INR
+,,,,,Product,Public Price,Fix Price,1,250,hsc_RPR
+,,,,,Product,Public Price,Fix Price,1,300,hsc_SangOcculte
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Selles
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Sicklingtest
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Sodium(Na)
+,,,,,Product,Public Price,Fix Price,1,600,hsc_T3
+,,,,,Product,Public Price,Fix Price,1,600,hsc_T4
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Tauxdereticulocytes
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Triglyceride
+,,,,,Product,Public Price,Fix Price,1,600,hsc_TSH
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Urée
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Urines
+,,,,,Product,Public Price,Fix Price,1,300,hsc_VitessedeSedimentation(VS)
+,,,,,Product,Public Price,Fix Price,1,500,hsc_VLDL-Cholesterol
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Widal
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_BAAF
+,,,,,Product,Public Price,Fix Price,1,3000,hsc_Biopsie
+,,,,,Product,Public Price,Fix Price,1,4000,hsc_Biopsie+Colposcopie
+,,,,,Product,Public Price,Fix Price,1,3000,hsc_Cytologie(frozensop)
+,,,,,Product,Public Price,Fix Price,1,750,hsc_PapTest
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_RecherchedeCellulesMalignes
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_XR 2 View Abdomen
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR 2 View Chest
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Abdomen
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR ASP
+,,,,,Product,Public Price,Fix Price,1,1200,hsc_XR Avant Bras
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Bassin
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Bras
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_XR Cheville
+,,,,,Product,Public Price,Fix Price,1,1200,hsc_XR Clavicule
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Colonne Cervicale
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Colonne Dorsale
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Colonne Lombaire
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Colonne Lombo Sacrée
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_Coude du Bras
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_XR Crane
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Cuisse
+,,,,,Product,Public Price,Fix Price,1,500,hsc_ECG
+,,,,,Product,Public Price,Fix Price,1,500,hsc_ECG-Electrocardiographie
+,,,,,Product,Public Price,Fix Price,1,2300,hsc_Echcardiographie
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Echo Doppler Arterielle
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Echo Doppler Scrotale
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Echo Doppler Véneuse
+,,,,,Product,Public Price,Fix Price,1,2700,hsc_Endoscopie Digestive
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Epaule
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Fémur
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_XR Finger (3 Views)
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Genou
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Hanche
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_XR Hand (3 Views)
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_XR Jambe
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_XR Pied
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_XR Poignet
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Sinus
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_Sonographie Abdominale
+,,,,,Product,Public Price,Fix Price,1,3500,hsc_Sonographie Abdomino-Pelvienne
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_Sonographie de la Carotide
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_Sonographie de la Thyroïde
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Sonographie Foetale Biophysicale Profile
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_Sonographie Gynécologique ou Pelvienne
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Sonographie Obstétricale
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_Sonographie Renale
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_Thorax
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_Toe (3 Vieux)
+init.product_pricelist_Insurance_Selective,Insurance Pay - Selective Case,Discount included in the price,16,base.HTG,Product,Public Price,Fix Price,1,350,hsc_AcideUrique
+,,,,,Product,Public Price,Fix Price,1,350,hsc_AnthraxCutané-SkinTest
+,,,,,Product,Public Price,Fix Price,1,350,hsc_AnthraxGastrointestinal-BloodTestorStoolTest
+,,,,,Product,Public Price,Fix Price,1,350,hsc_ADT(SGPT)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Albumine
+,,,,,Product,Public Price,Fix Price,1,500,hsc_Amylase
+,,,,,Product,Public Price,Fix Price,1,350,hsc_ASO(AntistreptolysineO)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_AST(SGOT)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_AzotedelUrée(BUN)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_BHCG
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_BilanHépatique(AST-ALT-TBil-ALKP-LDH)
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_BilanLipidique(Chol-Trig-HDLC-LDL-VLDL)
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_BilanPré-Opératoire(Hemogramme-ABO&RB-PT&INR)
+,,,,,Product,Public Price,Fix Price,1,4500,hsc_BilanRenal(BUN-Creat-Urée-AcideUrique)
+,,,,,Product,Public Price,Fix Price,1,6000,hsc_BilanThyroïdien
+,,,,,Product,Public Price,Fix Price,1,300,hsc_BilirubineTotale
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Calcium(Ca)
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_ChimieSanguine(Glycemie-BUN-Urée-Créatine)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Chlore(Cl)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Cholesterol
+,,,,,Product,Public Price,Fix Price,1,400,hsc_CO₂
+,,,,,Product,Public Price,Fix Price,1,400,hsc_Crachat
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Créatinine(CRSC)
+,,,,,Product,Public Price,Fix Price,1,450,hsc_CréatinineKinase(CK)
+,,,,,Product,Public Price,Fix Price,1,450,hsc_CréatinineKinaseMB
+,,,,,Product,Public Price,Fix Price,1,300,hsc_CRP
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_ECBCdesLiquides(TP-ALB-LDH-GLU-WBC-RBC-Diff…)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Fer(Fe)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FilairetestDiurne
+,,,,,Product,Public Price,Fix Price,1,350,hsc_FilairetestNocturne
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FrottisUretral+Gouttependante
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FrottisVaginal+Gouttependante
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlobulesBlanches
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlobulesRouges
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlycemieCapillaire
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlycemiePlasmatique
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Gravindex
+,,,,,Product,Public Price,Fix Price,1,300,"hsc_GroupeSanguin(ABO,Rh)"
+,,,,,Product,Public Price,Fix Price,1,300,hsc_HemogrammeComplet
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_H-Piloridanslesselles
+,,,,,Product,Public Price,Fix Price,1,750,hsc_H-Piloritest
+,,,,,Product,Public Price,Fix Price,1,1300,"hsc_Ionogramme(Na,K,Cl,CO₂)"
+,,,,,Product,Public Price,Fix Price,1,250,hsc_LamePeripherique
+,,,,,Product,Public Price,Fix Price,1,450,hsc_LDH
+,,,,,Product,Public Price,Fix Price,1,500,hsc_Lipase
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Magnesium(Mg)
+,,,,,Product,Public Price,Fix Price,1,200,hsc_Malariatest
+,,,,,Product,Public Price,Fix Price,1,200,hsc_Mantouxtest
+,,,,,Product,Public Price,Fix Price,1,400,hsc_PhosphataseAlcaline(ALKP)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_PlaquettesSanguines
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Potassium(K)
+,,,,,Product,Public Price,Fix Price,1,500,hsc_ProteineSerique
+,,,,,Product,Public Price,Fix Price,1,350,hsc_ProteineTotale
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_PSA
+,,,,,Product,Public Price,Fix Price,1,500,hsc_PT-INR
+,,,,,Product,Public Price,Fix Price,1,250,hsc_RPR
+,,,,,Product,Public Price,Fix Price,1,300,hsc_SangOcculte
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Selles
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Sicklingtest
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Sodium(Na)
+,,,,,Product,Public Price,Fix Price,1,600,hsc_T3
+,,,,,Product,Public Price,Fix Price,1,600,hsc_T4
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Tauxdereticulocytes
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Triglyceride
+,,,,,Product,Public Price,Fix Price,1,600,hsc_TSH
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Urée
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Urines
+,,,,,Product,Public Price,Fix Price,1,300,hsc_VitessedeSedimentation(VS)
+,,,,,Product,Public Price,Fix Price,1,500,hsc_VLDL-Cholesterol
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Widal
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_BAAF
+,,,,,Product,Public Price,Fix Price,1,5000,hsc_Biopsie
+,,,,,Product,Public Price,Fix Price,1,7500,hsc_Biopsie+Colposcopie
+,,,,,Product,Public Price,Fix Price,1,5000,hsc_Cytologie(frozensop)
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_PapTest
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_RecherchedeCellulesMalignes
+,,,,,Product,Public Price,Fix Price,1,3000,hsc_XR 2 View Abdomen
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_XR 2 View Chest
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Abdomen
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR ASP
+,,,,,Product,Public Price,Fix Price,1,1700,hsc_XR Avant Bras
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Bassin
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Bras
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_XR Cheville
+,,,,,Product,Public Price,Fix Price,1,1700,hsc_XR Clavicule
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Colonne Cervicale
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Colonne Dorsale
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Colonne Lombaire
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Colonne Lombo Sacrée
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Coude du Bras
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_XR Crane
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Cuisse
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_ECG
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_ECG-Electrocardiographie
+,,,,,Product,Public Price,Fix Price,1,2800,hsc_Echcardiographie
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Echo Doppler Arterielle
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Echo Doppler Scrotale
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Echo Doppler Véneuse
+,,,,,Product,Public Price,Fix Price,1,3200,hsc_Endoscopie Digestive
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Epaule
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Fémur
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_XR Finger (3 Views)
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Genou
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Hanche
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_XR Hand (3 Views)
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_XR Jambe
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_XR Pied
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_XR Poignet
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Sinus
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_Sonographie Abdominale
+,,,,,Product,Public Price,Fix Price,1,4000,hsc_Sonographie Abdomino-Pelvienne
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_Sonographie de la Carotide
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_Sonographie de la Thyroïde
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Sonographie Foetale Biophysicale Profile
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_Sonographie Gynécologique ou Pelvienne
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Sonographie Obstétricale
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_Sonographie Renale
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_Thorax
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_Toe (3 Vieux)
+init.product_pricelist_Insurance_Emergency,Insurance Pay - Emergency,Discount included in the price,16,base.HTG,Product,Public Price,Fix Price,1,400,hsc_AcideUrique
+,,,,,Product,Public Price,Fix Price,1,400,hsc_AnthraxCutané-SkinTest
+,,,,,Product,Public Price,Fix Price,1,400,hsc_AnthraxGastrointestinal-BloodTestorStoolTest
+,,,,,Product,Public Price,Fix Price,1,400,hsc_ADT(SGPT)
+,,,,,Product,Public Price,Fix Price,1,400,hsc_Albumine
+,,,,,Product,Public Price,Fix Price,1,550,hsc_Amylase
+,,,,,Product,Public Price,Fix Price,1,400,hsc_ASO(AntistreptolysineO)
+,,,,,Product,Public Price,Fix Price,1,400,hsc_AST(SGOT)
+,,,,,Product,Public Price,Fix Price,1,400,hsc_AzotedelUrée(BUN)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_BHCG
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_BilanHépatique(AST-ALT-TBil-ALKP-LDH)
+,,,,,Product,Public Price,Fix Price,1,1750,hsc_BilanLipidique(Chol-Trig-HDLC-LDL-VLDL)
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_BilanPré-Opératoire(Hemogramme-ABO&RB-PT&INR)
+,,,,,Product,Public Price,Fix Price,1,4500,hsc_BilanRenal(BUN-Creat-Urée-AcideUrique)
+,,,,,Product,Public Price,Fix Price,1,6000,hsc_BilanThyroïdien
+,,,,,Product,Public Price,Fix Price,1,300,hsc_BilirubineTotale
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Calcium(Ca)
+,,,,,Product,Public Price,Fix Price,1,1000,hsc_ChimieSanguine(Glycemie-BUN-Urée-Créatine)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Chlore(Cl)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Cholesterol
+,,,,,Product,Public Price,Fix Price,1,400,hsc_CO₂
+,,,,,Product,Public Price,Fix Price,1,400,hsc_Crachat
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Créatinine(CRSC)
+,,,,,Product,Public Price,Fix Price,1,450,hsc_CréatinineKinase(CK)
+,,,,,Product,Public Price,Fix Price,1,450,hsc_CréatinineKinaseMB
+,,,,,Product,Public Price,Fix Price,1,300,hsc_CRP
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_ECBCdesLiquides(TP-ALB-LDH-GLU-WBC-RBC-Diff…)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Fer(Fe)
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FilairetestDiurne
+,,,,,Product,Public Price,Fix Price,1,350,hsc_FilairetestNocturne
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FrottisUretral+Gouttependante
+,,,,,Product,Public Price,Fix Price,1,300,hsc_FrottisVaginal+Gouttependante
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlobulesBlanches
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlobulesRouges
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlycemieCapillaire
+,,,,,Product,Public Price,Fix Price,1,300,hsc_GlycemiePlasmatique
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Gravindex
+,,,,,Product,Public Price,Fix Price,1,300,"hsc_GroupeSanguin(ABO,Rh)"
+,,,,,Product,Public Price,Fix Price,1,300,hsc_HemogrammeComplet
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_H-Piloridanslesselles
+,,,,,Product,Public Price,Fix Price,1,750,hsc_H-Piloritest
+,,,,,Product,Public Price,Fix Price,1,1300,"hsc_Ionogramme(Na,K,Cl,CO₂)"
+,,,,,Product,Public Price,Fix Price,1,250,hsc_LamePeripherique
+,,,,,Product,Public Price,Fix Price,1,450,hsc_LDH
+,,,,,Product,Public Price,Fix Price,1,500,hsc_Lipase
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Magnesium(Mg)
+,,,,,Product,Public Price,Fix Price,1,200,hsc_Malariatest
+,,,,,Product,Public Price,Fix Price,1,200,hsc_Mantouxtest
+,,,,,Product,Public Price,Fix Price,1,400,hsc_PhosphataseAlcaline(ALKP)
+,,,,,Product,Public Price,Fix Price,1,350,hsc_PlaquettesSanguines
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Potassium(K)
+,,,,,Product,Public Price,Fix Price,1,500,hsc_ProteineSerique
+,,,,,Product,Public Price,Fix Price,1,350,hsc_ProteineTotale
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_PSA
+,,,,,Product,Public Price,Fix Price,1,500,hsc_PT-INR
+,,,,,Product,Public Price,Fix Price,1,250,hsc_RPR
+,,,,,Product,Public Price,Fix Price,1,300,hsc_SangOcculte
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Selles
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Sicklingtest
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Sodium(Na)
+,,,,,Product,Public Price,Fix Price,1,600,hsc_T3
+,,,,,Product,Public Price,Fix Price,1,600,hsc_T4
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Tauxdereticulocytes
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Triglyceride
+,,,,,Product,Public Price,Fix Price,1,600,hsc_TSH
+,,,,,Product,Public Price,Fix Price,1,350,hsc_Urée
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Urines
+,,,,,Product,Public Price,Fix Price,1,300,hsc_VitessedeSedimentation(VS)
+,,,,,Product,Public Price,Fix Price,1,500,hsc_VLDL-Cholesterol
+,,,,,Product,Public Price,Fix Price,1,300,hsc_Widal
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_BAAF
+,,,,,Product,Public Price,Fix Price,1,5000,hsc_Biopsie
+,,,,,Product,Public Price,Fix Price,1,7500,hsc_Biopsie+Colposcopie
+,,,,,Product,Public Price,Fix Price,1,5000,hsc_Cytologie(frozensop)
+,,,,,Product,Public Price,Fix Price,1,1250,hsc_PapTest
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_RecherchedeCellulesMalignes
+,,,,,Product,Public Price,Fix Price,1,3500,hsc_XR 2 View Abdomen
+,,,,,Product,Public Price,Fix Price,1,3250,hsc_XR 2 View Chest
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Abdomen
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR ASP
+,,,,,Product,Public Price,Fix Price,1,2200,hsc_XR Avant Bras
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Bassin
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Bras
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_XR Cheville
+,,,,,Product,Public Price,Fix Price,1,2200,hsc_XR Clavicule
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Colonne Cervicale
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Colonne Dorsale
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Colonne Lombaire
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Colonne Lombo Sacrée
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Coude du Bras
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_XR Crane
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Cuisse
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_ECG
+,,,,,Product,Public Price,Fix Price,1,1500,hsc_ECG-Electrocardiographie
+,,,,,Product,Public Price,Fix Price,1,3300,hsc_Echcardiographie
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Echo Doppler Arterielle
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Echo Doppler Scrotale
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Echo Doppler Véneuse
+,,,,,Product,Public Price,Fix Price,1,3700,hsc_Endoscopie Digestive
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Epaule
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Fémur
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_XR Finger (3 Views)
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Genou
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Hanche
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_XR Hand (3 Views)
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_XR Jambe
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_XR Pied
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_XR Poignet
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_XR Sinus
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_Sonographie Abdominale
+,,,,,Product,Public Price,Fix Price,1,4500,hsc_Sonographie Abdomino-Pelvienne
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_Sonographie de la Carotide
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_Sonographie de la Thyroïde
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Sonographie Foetale Biophysicale Profile
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_Sonographie Gynécologique ou Pelvienne
+,,,,,Product,Public Price,Fix Price,1,2500,hsc_Sonographie Obstétricale
+,,,,,Product,Public Price,Fix Price,1,2750,hsc_Sonographie Renale
+,,,,,Product,Public Price,Fix Price,1,2250,hsc_Thorax
+,,,,,Product,Public Price,Fix Price,1,2000,hsc_Toe (3 Vieux)
