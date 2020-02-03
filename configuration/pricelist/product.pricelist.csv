@@ -1,5 +1,4 @@
 id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_tmpl_id/id
-init.product_pricelist_Self_selective,Self Pay - Selective Case,Discount included in the price,16,base.HTG,Global,Public Price,Percentage (discount),1,,
 init.product_pricelist_Self_Emergency,Self Pay - Emergency,Discount included in the price,16,base.HTG,Product,Public Price,Fix Price,1,300,hsc_AcideUrique
 ,,,,,Product,Public Price,Fix Price,1,300,hsc_AnthraxCutané-SkinTest
 ,,,,,Product,Public Price,Fix Price,1,300,hsc_AnthraxGastrointestinal-BloodTestorStoolTest
@@ -357,3 +356,4 @@ init.product_pricelist_Insurance_Emergency,Insurance Pay - Emergency,Discount in
 ,,,,,Product,Public Price,Fix Price,1,2750,hsc_Sonographie Renale
 ,,,,,Product,Public Price,Fix Price,1,2250,hsc_Thorax
 ,,,,,Product,Public Price,Fix Price,1,2000,hsc_Toe (3 Vieux)
+init.product_pricelist_Self_selective,Self Pay - Selective Case,Discount included in the price,16,base.HTG,Global,Public Price,Percentage (discount),1,,
