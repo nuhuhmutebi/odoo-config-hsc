@@ -10,3 +10,6 @@
 "hsc.shopmapUrology","hsc.Urology","hsc.shop"
 "hsc.shopmapWound","hsc.Wound","hsc.shop"
 "hsc.shopmapWoundDressing","hsc.WoundDressing","hsc.shop"
+"hsc.shopmapRadiology","hsc.Radiology","hsc.shop"
+"hsc.shopmapLabTest","hsc.LabTest","hsc.shop"
+"hsc.shopmapDrug","hsc.Drug","hsc.shop"

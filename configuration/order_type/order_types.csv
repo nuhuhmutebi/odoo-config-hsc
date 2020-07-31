@@ -10,3 +10,6 @@ hsc.Surgery,Surgery
 hsc.Urology,Urology
 hsc.Wound,Wound
 hsc.WoundDressing,Wound Dressing
+hsc.Radiology,Radiology Order
+hsc.LabTest,Lab Order
+hsc.Drug,Drug Order
