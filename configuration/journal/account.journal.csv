@@ -1,5 +1,6 @@
-id,name,code,type,default_credit_account_id/id,default_debit_account_id/id
-init.cash_journal,Cash,CASH,Sale,hsc_account_1020,hsc_account_1020
-init.bank_journal,Bank,BNK,Sale,hsc_account_1020,hsc_account_1020
-init.credit_card_journal,Credit Card,CC,Sale,hsc_account_1020,hsc_account_1020
-init.cheque_journal,Cheque,CHK,Sale,hsc_account_1020,hsc_account_1020
+id,company_id/id,name,type,code,default_credit_account_id/id,default_debit_account_id/id
+c44f9e29-74ec-457f-a375-959054fa8e5b,base.main_company,Credit Card,Cash,CC,__export__.account_account_27,__export__.account_account_27
+f54a4d26-300d-4d69-8903-2b43a763d72e,base.main_company,Check,Bank,Check,__export__.account_account_27,__export__.account_account_27
+27f00eac-a2dc-4143-94dc-f82b88b5fea1,base.main_company,Insurance,Cash,Insur,__export__.account_account_27,__export__.account_account_27
+df46519e-08c5-4557-a258-90595293fb8d,base.main_company,Wire Transfer,Cash,Wire,__export__.account_account_28,__export__.account_account_28
+f4629848-2fa6-481e-b44c-f44da5026f97,base.main_company,Cash,Cash,Cash,__export__.account_account_27,__export__.account_account_27

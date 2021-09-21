@@ -1,0 +1,19 @@
+{
+    "models" : [
+        {
+            "model_name": "account.tax",
+            "folder": "taxes",
+            "field_rules": {}
+        },
+        {
+            "model_name": "syncable.units.mapping",
+            "folder": "syncable_units_mapping",
+            "field_rules": {}
+        },
+        {
+            "model_name": "stock.warehouse",
+            "folder": "warehouse",
+            "field_rules": {}
+        }
+    ]
+}
