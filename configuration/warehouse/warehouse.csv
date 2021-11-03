@@ -1,3 +1,4 @@
 "id","name","code","lot_stock_id/id","partner_id/id"
 "stock.warehouse0","Pharmacy","PHARM","stock.stock_location_stock","base.main_partner"
-"__export__.stock_warehouse_2","Sprung Building","SPRBU","__export__.stock_location_23","base.main_partner"
+"stock.warehouse1","Sprung Building","SPRBU","stock.stock_location_stock","base.main_partner"
+"stock.warehouse2","Warehouse","WAREH","stock.stock_location_stock","base.main_partner"
