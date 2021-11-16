@@ -1,16 +1,16 @@
 id,name
-__export__.order_type_ophtamology,"Ophtalmology"
-__export__.order_type_ENT,"ENT"
-__export__.order_type_material,"Material"
-__export__.order_type_maxillofacial,"Maxillofacial"
-__export__.order_type_obstetricsAndGynecology,"Obstetrics and Gynecology"
-__export__.order_type_orthopedicsAndTraumatology,"Orthopedics and Traumatology"
-__export__.order_type_procedure,"Procedure"
-__export__.order_type_surgery,"Surgery"
-__export__.order_type_urology,"Urology"
-__export__.order_type_wound,"Wound"
-__export__.order_type_woundDressing,"Wound Dressing"
-__export__.order_type_radiology,"Radiology Order"
-__export__.order_type_lab,"Lab Order"
-__export__.order_type_drug,"Drug Order"
-__export__.order_type_other,"Other Order"
+__export__.order_type_ophtamology,Ophtalmology
+__export__.order_type_ENT,ENT
+__export__.order_type_material,Material
+__export__.order_type_maxillofacial,Maxillofacial
+__export__.order_type_obstetricsAndGynecology,Obstetrics and Gynecology
+__export__.order_type_orthopedicsAndTraumatology,Orthopedics and Traumatology
+__export__.order_type_procedure,Procedure
+__export__.order_type_surgery,Surgery
+__export__.order_type_urology,Urology
+__export__.order_type_wound,Wound
+__export__.order_type_woundDressing,Wound Dressing
+__export__.order_type_radiology,Radiology Order
+__export__.order_type_lab,Lab Order
+__export__.order_type_drug,Drug Order
+__export__.order_type_misc,Misc Order
