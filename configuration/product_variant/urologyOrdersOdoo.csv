@@ -1,33 +1,33 @@
-id,uuid,name,categ_id/id,type,lst_price
-URO1001,f6a2fd21-2c30-4354-9b7c-c5cd792f5796,Amputation Partielle de la Verge,product.categ_services_urology_orders,service,15000
-URO1002,76c19c5b-754d-4b2e-810d-e70115bd5fb4,Amputation Totale Verge,product.categ_services_urology_orders,service,20000
-URO1003,163f759f-b4e9-428a-94e6-b3b32d0d55a2,Calcul Urétral,product.categ_services_urology_orders,service,20000
-URO1004,5f922f68-2312-4f15-a250-cd2cd0f03418,Circoncision Adulte,product.categ_services_urology_orders,service,20000
-URO1005,0a51292e-cc89-412a-b15f-b09c25335afb,Circoncision Enfant,product.categ_services_urology_orders,service,15000
-URO1006,4a6df804-5163-49eb-9718-95c5a07d3b73,Cystectomie Partielle,product.categ_services_urology_orders,service,30000
-URO1007,3cbd1669-2309-427f-97be-47332fe5889f,Cystectomie totale (Colposuspension de Burch),product.categ_services_urology_orders,service,45000
-URO1008,cbdb807b-2424-46e6-8d9c-6edb49ba3409,Cysto Urétéro-Lithotomie,product.categ_services_urology_orders,service,40000
-URO1009,b63d1721-7a7c-4145-a894-fb95f88312e6,Decaillotage,product.categ_services_urology_orders,service,7500
-URO1010,d1df8b82-e4a8-47b3-bfdb-7a9cfdddb696,Dilatation Prépuciale,product.categ_services_urology_orders,service,8500
-URO1011,20ff23b8-2e88-43e9-8cb2-73f619024606,Dilatation Pyélo-Urétérale,product.categ_services_urology_orders,service,20000
-URO1012,7f3cdda6-fc61-4919-94fe-e8b5e4e2d232,Dilatation Urétrale,product.categ_services_urology_orders,service,5000
-URO1013,5ced2a7b-42c2-4478-9e80-d5eab3f11e0c,Epididymectomie Bilatérale,product.categ_services_urology_orders,service,30000
-URO1014,25ce7a5d-6dc7-4bd2-a12a-3f39a01c3b14,Epididymectomie Unilatérale,product.categ_services_urology_orders,service,20000
-URO1015,fea19a91-a2ad-471e-b9ca-7869c085b1bc,Exision Kyste du Cordon,product.categ_services_urology_orders,service,20000
-URO1016,e62c8971-735c-4736-b59c-f780078c3ebf,Exploration Urétrale,product.categ_services_urology_orders,service,10000
-URO1017,257affdc-a563-41a7-835b-15f5a5d30166,Hydrocelectomie Bilatérale,product.categ_services_urology_orders,service,30000
-URO1018,db693772-b8eb-4930-8b03-90f69a13ea32,Hydrocelectomie Unilatérale,product.categ_services_urology_orders,service,25000
-URO1019,f93c8dd2-792c-46d0-9198-c9c3a2b0026a,Kystectomie Renale,product.categ_services_urology_orders,service,30000
-URO1020,3f2fc969-3f84-4133-a2fb-7300df1b543c,Orchidopexie,product.categ_services_urology_orders,service,20000
-URO1021,2a2840a7-59d1-448f-a7f3-be0f5fb5ee2f,Orchiectomie Bilatérale,product.categ_services_urology_orders,service,25000
-URO1022,fdf99591-dc0d-4400-9cd2-3e7ea720317c,Orchidectomie Unilatérale,product.categ_services_urology_orders,service,20000
-URO1023,93a477b5-cd8c-4418-a27a-84853ea5537c,Paraphimosis Réduction + Incision Dorsale,product.categ_services_urology_orders,service,15000
-URO1024,33b09bac-f458-4c57-8ed6-fdb04c7c9da5,Penectomie,product.categ_services_urology_orders,service,20000
-URO1025,880de8a3-b9c8-4885-8f6e-7d629502060b,Prostatectomie Sus-Pubienne,product.categ_services_urology_orders,service,35000
-URO1026,975c8f54-ae6f-485a-a475-edb7eb5f42e8,Prostatectomie Radicale,product.categ_services_urology_orders,service,45000
-URO1027,3ecc4598-eded-43f7-9434-0cda0a11dd59,Prostatectomie Totale,product.categ_services_urology_orders,service,60000
-URO1028,7c075857-c407-430c-8266-7d515c9fd9d4,TURP (Prostatectomie Trans-Urethrale),product.categ_services_urology_orders,service,40000
-URO1029,c5f571fc-2431-414c-9b4c-c6231fd23ab7,Uretroplastie,product.categ_services_urology_orders,service,40000
-URO1030,a3a7ee6a-2cf2-4757-91ad-b39b19bd8ea7,Uretrotomie Interne & Externe,product.categ_services_urology_orders,service,20000
-URO1031,391745dc-02d1-4dac-b6a7-bff9d3d7b9e7,Varicocèle bilatérale,product.categ_services_urology_orders,service,35000
-URO1032,9b31ad66-0c9f-4659-b79a-600a5af07642,Varicocèle uniatérale,product.categ_services_urology_orders,service,30000
+id,uuid,name,categ_id/id,type,lst_price,purchase_ok,sale_ok
+URO1001,f6a2fd21-2c30-4354-9b7c-c5cd792f5796,Amputation Partielle de la Verge,product.categ_services_urology_orders,service,15000,False,True
+URO1002,76c19c5b-754d-4b2e-810d-e70115bd5fb4,Amputation Totale Verge,product.categ_services_urology_orders,service,20000,False,True
+URO1003,163f759f-b4e9-428a-94e6-b3b32d0d55a2,Calcul Urétral,product.categ_services_urology_orders,service,20000,False,True
+URO1004,5f922f68-2312-4f15-a250-cd2cd0f03418,Circoncision Adulte,product.categ_services_urology_orders,service,20000,False,True
+URO1005,0a51292e-cc89-412a-b15f-b09c25335afb,Circoncision Enfant,product.categ_services_urology_orders,service,15000,False,True
+URO1006,4a6df804-5163-49eb-9718-95c5a07d3b73,Cystectomie Partielle,product.categ_services_urology_orders,service,30000,False,True
+URO1007,3cbd1669-2309-427f-97be-47332fe5889f,Cystectomie totale (Colposuspension de Burch),product.categ_services_urology_orders,service,45000,False,True
+URO1008,cbdb807b-2424-46e6-8d9c-6edb49ba3409,Cysto Urétéro-Lithotomie,product.categ_services_urology_orders,service,40000,False,True
+URO1009,b63d1721-7a7c-4145-a894-fb95f88312e6,Decaillotage,product.categ_services_urology_orders,service,7500,False,True
+URO1010,d1df8b82-e4a8-47b3-bfdb-7a9cfdddb696,Dilatation Prépuciale,product.categ_services_urology_orders,service,8500,False,True
+URO1011,20ff23b8-2e88-43e9-8cb2-73f619024606,Dilatation Pyélo-Urétérale,product.categ_services_urology_orders,service,20000,False,True
+URO1012,7f3cdda6-fc61-4919-94fe-e8b5e4e2d232,Dilatation Urétrale,product.categ_services_urology_orders,service,5000,False,True
+URO1013,5ced2a7b-42c2-4478-9e80-d5eab3f11e0c,Epididymectomie Bilatérale,product.categ_services_urology_orders,service,30000,False,True
+URO1014,25ce7a5d-6dc7-4bd2-a12a-3f39a01c3b14,Epididymectomie Unilatérale,product.categ_services_urology_orders,service,20000,False,True
+URO1015,fea19a91-a2ad-471e-b9ca-7869c085b1bc,Exision Kyste du Cordon,product.categ_services_urology_orders,service,20000,False,True
+URO1016,e62c8971-735c-4736-b59c-f780078c3ebf,Exploration Urétrale,product.categ_services_urology_orders,service,10000,False,True
+URO1017,257affdc-a563-41a7-835b-15f5a5d30166,Hydrocelectomie Bilatérale,product.categ_services_urology_orders,service,30000,False,True
+URO1018,db693772-b8eb-4930-8b03-90f69a13ea32,Hydrocelectomie Unilatérale,product.categ_services_urology_orders,service,25000,False,True
+URO1019,f93c8dd2-792c-46d0-9198-c9c3a2b0026a,Kystectomie Renale,product.categ_services_urology_orders,service,30000,False,True
+URO1020,3f2fc969-3f84-4133-a2fb-7300df1b543c,Orchidopexie,product.categ_services_urology_orders,service,20000,False,True
+URO1021,2a2840a7-59d1-448f-a7f3-be0f5fb5ee2f,Orchiectomie Bilatérale,product.categ_services_urology_orders,service,25000,False,True
+URO1022,fdf99591-dc0d-4400-9cd2-3e7ea720317c,Orchidectomie Unilatérale,product.categ_services_urology_orders,service,20000,False,True
+URO1023,93a477b5-cd8c-4418-a27a-84853ea5537c,Paraphimosis Réduction + Incision Dorsale,product.categ_services_urology_orders,service,15000,False,True
+URO1024,33b09bac-f458-4c57-8ed6-fdb04c7c9da5,Penectomie,product.categ_services_urology_orders,service,20000,False,True
+URO1025,880de8a3-b9c8-4885-8f6e-7d629502060b,Prostatectomie Sus-Pubienne,product.categ_services_urology_orders,service,35000,False,True
+URO1026,975c8f54-ae6f-485a-a475-edb7eb5f42e8,Prostatectomie Radicale,product.categ_services_urology_orders,service,45000,False,True
+URO1027,3ecc4598-eded-43f7-9434-0cda0a11dd59,Prostatectomie Totale,product.categ_services_urology_orders,service,60000,False,True
+URO1028,7c075857-c407-430c-8266-7d515c9fd9d4,TURP (Prostatectomie Trans-Urethrale),product.categ_services_urology_orders,service,40000,False,True
+URO1029,c5f571fc-2431-414c-9b4c-c6231fd23ab7,Uretroplastie,product.categ_services_urology_orders,service,40000,False,True
+URO1030,a3a7ee6a-2cf2-4757-91ad-b39b19bd8ea7,Uretrotomie Interne & Externe,product.categ_services_urology_orders,service,20000,False,True
+URO1031,391745dc-02d1-4dac-b6a7-bff9d3d7b9e7,Varicocèle bilatérale,product.categ_services_urology_orders,service,35000,False,True
+URO1032,9b31ad66-0c9f-4659-b79a-600a5af07642,Varicocèle uniatérale,product.categ_services_urology_orders,service,30000,False,True

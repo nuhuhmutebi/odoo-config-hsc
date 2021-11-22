@@ -1,8 +1,8 @@
-"id","uuid","name","categ_id/id","type","lst_price"
-"OTH1001","5024f465-3b7c-477c-baf1-cfbe5a9507a1","Hospitalisation Adulte","product.categ_services_others_orders","service","100"
-"OTH1002","61d073e5-c794-431e-91ae-8d6aa53a6d93","Hospitalisation Pédiatrique","product.categ_services_others_orders","service","100"
-"OTH1003","e1ce77e7-18de-4da4-b63b-5e9b96eb6bb6","Hospitalisation Soins intensifs","product.categ_services_others_orders","service","200"
-"OTH1004","f0ae601c-bee9-4d0c-8189-7c0e7da73108","Patient en Observation","product.categ_services_others_orders","service","200"
-"OTH1005","e3324f1d-3d7a-4a9c-8091-a3b215de8683","Kit d'admission","product.categ_services_others_orders","service","500"
-"OTH1006","1a017ec6-3b32-4360-b1af-3e24fa8035b0","Consultation Générale","product.categ_services_others_orders","service","100"
-"OTH1007","4a4bb36a-63f5-4875-94c3-ac2f25bcb29a","Consultations Spécialisées","product.categ_services_others_orders","service","150"
+"id","uuid","name","categ_id/id","type","lst_price",purchase_ok,sale_ok
+"OTH1001","5024f465-3b7c-477c-baf1-cfbe5a9507a1","Hospitalisation Adulte","product.categ_services_others_orders","service","100",False,True
+"OTH1002","61d073e5-c794-431e-91ae-8d6aa53a6d93","Hospitalisation Pédiatrique","product.categ_services_others_orders","service","100",False,True
+"OTH1003","e1ce77e7-18de-4da4-b63b-5e9b96eb6bb6","Hospitalisation Soins intensifs","product.categ_services_others_orders","service","200",False,True
+"OTH1004","f0ae601c-bee9-4d0c-8189-7c0e7da73108","Patient en Observation","product.categ_services_others_orders","service","200",False,True
+"OTH1005","e3324f1d-3d7a-4a9c-8091-a3b215de8683","Kit d'admission","product.categ_services_others_orders","service","500",False,True
+"OTH1006","1a017ec6-3b32-4360-b1af-3e24fa8035b0","Consultation Générale","product.categ_services_others_orders","service","100",False,True
+"OTH1007","4a4bb36a-63f5-4875-94c3-ac2f25bcb29a","Consultations Spécialisées","product.categ_services_others_orders","service","150",False,True

@@ -1,30 +1,30 @@
-"id","uuid","name","categ_id/id","type","lst_price"
-"ORL001","9377261f-51f4-49fa-88d5-22d700ef451a","Adénoïdectomie","product.categ_services_ent_orders","service","15000"
-"ORL002","766ae395-936c-4dba-8af1-81e4337c95f7","Exérèse Adénopathie Cervicale","product.categ_services_ent_orders","service","7500"
-"ORL003","3f0004ae-3358-44a7-99fc-d4962e814165","Biopsie du Cou","product.categ_services_ent_orders","service","7500"
-"ORL004","53a644ff-11f4-4056-b7bd-7d6de26d5ec4","Enlèvement de Corps étranger (Oesophage)","product.categ_services_ent_orders","service","15000"
-"ORL005","d98ab98f-e4d2-4768-8ea9-0dc4cf3ce64d","Amygdalectomie","product.categ_services_ent_orders","service","15000"
-"ORL006","eeb17000-c550-4ebc-bce6-3d8511c826b8","Exérèse Glande Salivaire","product.categ_services_ent_orders","service","10000"
-"ORL007","641adb47-4762-409c-bfb6-1459d43c69d9","Thyroïdectomie","product.categ_services_ent_orders","service","18000"
-"ORL008","ef09e691-be97-4342-9f7c-13b3d2c99c57","Hydrocephalus","product.categ_services_ent_orders","service","15000"
-"ORL009","6521905f-f2f6-4e2b-9e60-81875b8360c0","Lympanoplastie","product.categ_services_ent_orders","service","15000"
-"ORL010","81af7d7e-da97-476c-9608-6970fb14619f","Réparation de l'Oreille","product.categ_services_ent_orders","service","18000"
-"ORL011","fdc68407-9e0c-4027-8db7-195181902fcd","Parotidectomie","product.categ_services_ent_orders","service","15000"
-"ORL012","8471106c-fa95-4df2-b764-04d777799b21","Polypectomie","product.categ_services_ent_orders","service","18000"
-"ORL013","6f1fd0cb-32cd-4d5a-a07a-00e0d8709cd2","Exérèse kyste Tyro-Glossale","product.categ_services_ent_orders","service","15000"
-"ORL014","3b95e2db-954a-4afe-93da-fdda66dc280e","Frenelectomy","product.categ_services_ent_orders","service","15000"
-"ORL015","d59a83ee-b5d0-45ad-b8d4-53d119b8cfa8","Hémi-Glossectomie","product.categ_services_ent_orders","service","15000"
-"ORL016","3c25dfeb-e488-4539-ab64-1494d77e5616","Hémi-Mandibulectomie","product.categ_services_ent_orders","service","25000"
-"ORL017","f7004b3a-2f3f-40c2-9203-fa8d24b4783b","Hémi-Maxillectomie","product.categ_services_ent_orders","service","20000"
-"ORL018","447cd68e-fd33-407d-ac5c-24c81b992816","Incision Phlegmon Péri-Amygdalien","product.categ_services_ent_orders","service","10000"
-"ORL019","dd0f49ca-8001-4c72-b211-e355be8d7a8b","Laryngectomie sub-totale","product.categ_services_ent_orders","service","20000"
-"ORL020","f81e2d32-3b72-49aa-a199-19602d1588a7","Laryngectomie totale","product.categ_services_ent_orders","service","25000"
-"ORL021","d3543e8f-1561-43be-9f96-2b1bed0d83fe","Laryngoscopie","product.categ_services_ent_orders","service","15000"
-"ORL022","dfa04c22-bf42-4e63-9878-424af28faf1c","Ligature carotide externe","product.categ_services_ent_orders","service","15000"
-"ORL023","b8506576-7359-4adf-96f0-e5400b5087a2","Réparation Plaie de face (petite étendue)","product.categ_services_ent_orders","service","10000"
-"ORL024","777485b9-9bc5-4b84-a575-2cb08a074328","Réparation Plaie de face (grande étendue)","product.categ_services_ent_orders","service","15000"
-"ORL025","908b995d-9dcc-4356-b45c-27e66a9577a3","Réparation Plaie de langue","product.categ_services_ent_orders","service","10000"
-"ORL026","6b401cef-025d-4ad9-bdfd-9951941d633e","Réparation Plaie de la Lèvre","product.categ_services_ent_orders","service","10000"
-"ORL027","a9fa6c7b-8ed0-4906-8c84-135ac328a0b2","Réparation Plaie Trachéale","product.categ_services_ent_orders","service","15000"
-"ORL028","9c899fb8-982b-451a-b19f-a6700a555df9","Exérèse Tumeur de la Langue","product.categ_services_ent_orders","service","15000"
-"ORL029","8e95c1e5-b49c-4b32-8648-b6386e955e44","Exérèse du Tumeur Maligne du Plancherde la  Cavité Buccale","product.categ_services_ent_orders","service","15000"
+"id","uuid","name","categ_id/id","type","lst_price",purchase_ok,sale_ok
+"ORL001","9377261f-51f4-49fa-88d5-22d700ef451a","Adénoïdectomie","product.categ_services_ent_orders","service","15000",False,True
+"ORL002","766ae395-936c-4dba-8af1-81e4337c95f7","Exérèse Adénopathie Cervicale","product.categ_services_ent_orders","service","7500",False,True
+"ORL003","3f0004ae-3358-44a7-99fc-d4962e814165","Biopsie du Cou","product.categ_services_ent_orders","service","7500",False,True
+"ORL004","53a644ff-11f4-4056-b7bd-7d6de26d5ec4","Enlèvement de Corps étranger (Oesophage)","product.categ_services_ent_orders","service","15000",False,True
+"ORL005","d98ab98f-e4d2-4768-8ea9-0dc4cf3ce64d","Amygdalectomie","product.categ_services_ent_orders","service","15000",False,True
+"ORL006","eeb17000-c550-4ebc-bce6-3d8511c826b8","Exérèse Glande Salivaire","product.categ_services_ent_orders","service","10000",False,True
+"ORL007","641adb47-4762-409c-bfb6-1459d43c69d9","Thyroïdectomie","product.categ_services_ent_orders","service","18000",False,True
+"ORL008","ef09e691-be97-4342-9f7c-13b3d2c99c57","Hydrocephalus","product.categ_services_ent_orders","service","15000",False,True
+"ORL009","6521905f-f2f6-4e2b-9e60-81875b8360c0","Lympanoplastie","product.categ_services_ent_orders","service","15000",False,True
+"ORL010","81af7d7e-da97-476c-9608-6970fb14619f","Réparation de l'Oreille","product.categ_services_ent_orders","service","18000",False,True
+"ORL011","fdc68407-9e0c-4027-8db7-195181902fcd","Parotidectomie","product.categ_services_ent_orders","service","15000",False,True
+"ORL012","8471106c-fa95-4df2-b764-04d777799b21","Polypectomie","product.categ_services_ent_orders","service","18000",False,True
+"ORL013","6f1fd0cb-32cd-4d5a-a07a-00e0d8709cd2","Exérèse kyste Tyro-Glossale","product.categ_services_ent_orders","service","15000",False,True
+"ORL014","3b95e2db-954a-4afe-93da-fdda66dc280e","Frenelectomy","product.categ_services_ent_orders","service","15000",False,True
+"ORL015","d59a83ee-b5d0-45ad-b8d4-53d119b8cfa8","Hémi-Glossectomie","product.categ_services_ent_orders","service","15000",False,True
+"ORL016","3c25dfeb-e488-4539-ab64-1494d77e5616","Hémi-Mandibulectomie","product.categ_services_ent_orders","service","25000",False,True
+"ORL017","f7004b3a-2f3f-40c2-9203-fa8d24b4783b","Hémi-Maxillectomie","product.categ_services_ent_orders","service","20000",False,True
+"ORL018","447cd68e-fd33-407d-ac5c-24c81b992816","Incision Phlegmon Péri-Amygdalien","product.categ_services_ent_orders","service","10000",False,True
+"ORL019","dd0f49ca-8001-4c72-b211-e355be8d7a8b","Laryngectomie sub-totale","product.categ_services_ent_orders","service","20000",False,True
+"ORL020","f81e2d32-3b72-49aa-a199-19602d1588a7","Laryngectomie totale","product.categ_services_ent_orders","service","25000",False,True
+"ORL021","d3543e8f-1561-43be-9f96-2b1bed0d83fe","Laryngoscopie","product.categ_services_ent_orders","service","15000",False,True
+"ORL022","dfa04c22-bf42-4e63-9878-424af28faf1c","Ligature carotide externe","product.categ_services_ent_orders","service","15000",False,True
+"ORL023","b8506576-7359-4adf-96f0-e5400b5087a2","Réparation Plaie de face (petite étendue)","product.categ_services_ent_orders","service","10000",False,True
+"ORL024","777485b9-9bc5-4b84-a575-2cb08a074328","Réparation Plaie de face (grande étendue)","product.categ_services_ent_orders","service","15000",False,True
+"ORL025","908b995d-9dcc-4356-b45c-27e66a9577a3","Réparation Plaie de langue","product.categ_services_ent_orders","service","10000",False,True
+"ORL026","6b401cef-025d-4ad9-bdfd-9951941d633e","Réparation Plaie de la Lèvre","product.categ_services_ent_orders","service","10000",False,True
+"ORL027","a9fa6c7b-8ed0-4906-8c84-135ac328a0b2","Réparation Plaie Trachéale","product.categ_services_ent_orders","service","15000",False,True
+"ORL028","9c899fb8-982b-451a-b19f-a6700a555df9","Exérèse Tumeur de la Langue","product.categ_services_ent_orders","service","15000",False,True
+"ORL029","8e95c1e5-b49c-4b32-8648-b6386e955e44","Exérèse du Tumeur Maligne du Plancherde la  Cavité Buccale","product.categ_services_ent_orders","service","15000",False,True
