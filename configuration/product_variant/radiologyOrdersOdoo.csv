@@ -1,48 +1,48 @@
-id,uuid,name,categ_id/id,type,lst_price
-RAD1001,8e951835-a64d-4639-a9f3-b3f12a398047,2 View Abdomen,product.categ_services_radiology_orders,service,2000
-RAD1002,3373dc3c-c7db-4ceb-980c-765f92e85c43,2 View Chest,product.categ_services_radiology_orders,service,1750
-RAD1003,d6a9aa22-f74d-49dd-aa17-bfdc8eff1352,Abdomen,product.categ_services_radiology_orders,service,1000
-RAD1004,a2797459-1a1b-4077-9a6c-7fb60b3ff3f4,ASP,product.categ_services_radiology_orders,service,1000
-RAD1005,cf4634b1-f8e9-40e8-9a49-764a4b6f6676,Avant Bras,product.categ_services_radiology_orders,service,900
-RAD1006,9d67fa5b-2542-4fd5-bae4-fc1492aa02ae,Bassin,product.categ_services_radiology_orders,service,1000
-RAD1007,15370e47-f58f-42b1-9b35-2fdc288ed1dc,Bras,product.categ_services_radiology_orders,service,1000
-RAD1008,c7ac37f0-46b4-439a-b8a5-fa89aca67902,Cheville,product.categ_services_radiology_orders,service,800
-RAD1009,d3bd752d-86b9-46c2-bf23-1a7071a69ea1,Clavicule,product.categ_services_radiology_orders,service,900
-RAD1010,838aa5c7-e589-444a-b3c6-b4c9ad5f9117,Colonne Cervicale,product.categ_services_radiology_orders,service,1250
-RAD1011,bb309696-687a-45a1-964d-bf4dd83d2cb0,Colonne Dorsale,product.categ_services_radiology_orders,service,1250
-RAD1012,fb074eab-ce2c-477a-8194-3d9a3075e1c8,Colonne Lombaire,product.categ_services_radiology_orders,service,1250
-RAD1013,31227b54-791a-4942-a4fb-18eec7b84caf,Colonne Lombo Sacrée,product.categ_services_radiology_orders,service,1250
-RAD1014,7b7a73f7-15bb-40ff-bff9-64a1ecf324be,Coude du Bras,product.categ_services_radiology_orders,service,800
-RAD1015,b41c90d9-8901-454a-9f1b-239d4c6010bb,Crane,product.categ_services_radiology_orders,service,1250
-RAD1016,cc7ee3ba-8386-4f29-ac9e-d50e91603382,Cuisse,product.categ_services_radiology_orders,service,1000
-RAD1017,dfbd2dce-02b8-4954-88b2-5de248e4587d,ECG,product.categ_services_radiology_orders,service,350
-RAD1018,6e0faed3-e29c-4e39-8b20-e3331e22c0a5,ECG-Electrocardiographie,product.categ_services_radiology_orders,service,350
-RAD1019,4d1e3ad4-a5bb-4abd-b7b5-36a47cd59658,Echocardiographie,product.categ_services_radiology_orders,service,2000
-RAD1020,0b15b116-0709-4c70-aca6-e7b64a7d9b79,Echo-Stresse/Stress Test,product.categ_services_radiology_orders,service,10000
-RAD1021,b45815fe-97a2-4b74-bb70-18fccf46577e,Holter Test/ECG-24 heures,product.categ_services_radiology_orders,service,4000
-RAD1022,c95e3b1f-e4b6-42da-98d5-9f11763db05c,Echo Doppler Arterielle,product.categ_services_radiology_orders,service,1250
-RAD1023,9d8ac3c7-4ca3-4493-9adf-429955d4f2d0,Echo Doppler Scrotale,product.categ_services_radiology_orders,service,1250
-RAD1024,86d68691-5711-491a-9172-fd0816de4880,Echo Doppler Véneuse,product.categ_services_radiology_orders,service,1250
-RAD1025,85ed2353-5379-45be-ac27-ac7b82e74c0a,Endoscopie Digestive,product.categ_services_radiology_orders,service,2250
-RAD1026,d107afc9-6a61-401a-9574-daadb7a8020c,Epaule,product.categ_services_radiology_orders,service,1000
-RAD1027,f77e9735-6cea-4760-9ced-f76dc664bbc7,Fémur,product.categ_services_radiology_orders,service,1000
-RAD1028,9477ff2e-02dd-4203-9ace-8fc38c3d3692,Finger (3 Views),product.categ_services_radiology_orders,service,800
-RAD1029,c266ac5a-a019-41fe-89b8-c9b0d8b1530f,Genou,product.categ_services_radiology_orders,service,1000
-RAD1030,6d393221-a82a-4674-b9be-73224eb98867,Hanche,product.categ_services_radiology_orders,service,1000
-RAD1031,dd4b4f82-5f07-4fb2-8ee7-2602d413cefc,Hand (3 Views),product.categ_services_radiology_orders,service,800
-RAD1032,4f851123-73d9-4dfc-90e2-5b49fd558c6b,Jambe,product.categ_services_radiology_orders,service,1000
-RAD1033,b8ce2e8b-0d20-4664-90b2-ee60ed164983,Pied,product.categ_services_radiology_orders,service,800
-RAD1034,e389bcbb-807c-483d-9191-d39fc9de10d6,Poignet,product.categ_services_radiology_orders,service,800
-RAD1035,c654e09e-62d2-4754-9a0c-62d5d7240164,Sinus,product.categ_services_radiology_orders,service,1300
-RAD1036,9212685d-a475-45ce-9aa1-2d95c6c11fed,Sonographie Abdominale,product.categ_services_radiology_orders,service,1500
-RAD1037,6e3d4a12-333b-4bab-b08a-3ae35c528aee,Sonographie Abdomino-Pelvienne,product.categ_services_radiology_orders,service,3000
-RAD1038,b3a57d08-e986-4dc5-8de1-8c329cd0ad39,Sonographie de la Carotide,product.categ_services_radiology_orders,service,1500
-RAD1039,a35e3227-cd58-48b7-b023-4c9a5bc54587,Sonographie de la Thyroïde,product.categ_services_radiology_orders,service,1500
-RAD1040,4a0812b2-eb70-4ece-a11c-2e289ecb7db0,Sonographie Foetale Biophysicale Profile,product.categ_services_radiology_orders,service,1250
-RAD1041,d60eb339-2d75-4fb7-b64b-8f1969ad5c4c,Sonographie Gynécologique ou Pelvienne,product.categ_services_radiology_orders,service,1500
-RAD1042,acd32f87-e994-4e16-b4fb-ec31c2d37622,Sonographie Mammaire 1 sein,product.categ_services_radiology_orders,service,1500
-RAD1043,45b32878-6869-445c-900b-f237dbf50060,Sonographie Mammaire 2 seins,product.categ_services_radiology_orders,service,3000
-RAD1044,fe238ad9-4008-46b8-9254-6a3ad68d483b,Sonographie Obstétricale,product.categ_services_radiology_orders,service,1250
-RAD1045,f50c9e0d-4deb-4e91-a3ce-30f49a407000,Sonographie Renale,product.categ_services_radiology_orders,service,1500
-RAD1046,d83efa3d-0d52-40e3-88f5-ecdd4d2162e0,Thorax,product.categ_services_radiology_orders,service,1000
-RAD1047,2e62356d-4458-4e71-9fd8-d51c2d2fe2f9,Toe (3 Vieux),product.categ_services_radiology_orders,service,800
+id,uuid,name,categ_id/id,type,lst_price,purchase_ok,sale_ok
+RAD1001,8e951835-a64d-4639-a9f3-b3f12a398047,2 View Abdomen,product.categ_services_radiology_orders,service,2000,False,True
+RAD1002,3373dc3c-c7db-4ceb-980c-765f92e85c43,2 View Chest,product.categ_services_radiology_orders,service,1750,False,True
+RAD1003,d6a9aa22-f74d-49dd-aa17-bfdc8eff1352,Abdomen,product.categ_services_radiology_orders,service,1000,False,True
+RAD1004,a2797459-1a1b-4077-9a6c-7fb60b3ff3f4,ASP,product.categ_services_radiology_orders,service,1000,False,True
+RAD1005,cf4634b1-f8e9-40e8-9a49-764a4b6f6676,Avant Bras,product.categ_services_radiology_orders,service,900,False,True
+RAD1006,9d67fa5b-2542-4fd5-bae4-fc1492aa02ae,Bassin,product.categ_services_radiology_orders,service,1000,False,True
+RAD1007,15370e47-f58f-42b1-9b35-2fdc288ed1dc,Bras,product.categ_services_radiology_orders,service,1000,False,True
+RAD1008,c7ac37f0-46b4-439a-b8a5-fa89aca67902,Cheville,product.categ_services_radiology_orders,service,800,False,True
+RAD1009,d3bd752d-86b9-46c2-bf23-1a7071a69ea1,Clavicule,product.categ_services_radiology_orders,service,900,False,True
+RAD1010,838aa5c7-e589-444a-b3c6-b4c9ad5f9117,Colonne Cervicale,product.categ_services_radiology_orders,service,1250,False,True
+RAD1011,bb309696-687a-45a1-964d-bf4dd83d2cb0,Colonne Dorsale,product.categ_services_radiology_orders,service,1250,False,True
+RAD1012,fb074eab-ce2c-477a-8194-3d9a3075e1c8,Colonne Lombaire,product.categ_services_radiology_orders,service,1250,False,True
+RAD1013,31227b54-791a-4942-a4fb-18eec7b84caf,Colonne Lombo Sacrée,product.categ_services_radiology_orders,service,1250,False,True
+RAD1014,7b7a73f7-15bb-40ff-bff9-64a1ecf324be,Coude du Bras,product.categ_services_radiology_orders,service,800,False,True
+RAD1015,b41c90d9-8901-454a-9f1b-239d4c6010bb,Crane,product.categ_services_radiology_orders,service,1250,False,True
+RAD1016,cc7ee3ba-8386-4f29-ac9e-d50e91603382,Cuisse,product.categ_services_radiology_orders,service,1000,False,True
+RAD1017,dfbd2dce-02b8-4954-88b2-5de248e4587d,ECG,product.categ_services_radiology_orders,service,350,False,True
+RAD1018,6e0faed3-e29c-4e39-8b20-e3331e22c0a5,ECG-Electrocardiographie,product.categ_services_radiology_orders,service,350,False,True
+RAD1019,4d1e3ad4-a5bb-4abd-b7b5-36a47cd59658,Echocardiographie,product.categ_services_radiology_orders,service,2000,False,True
+RAD1020,0b15b116-0709-4c70-aca6-e7b64a7d9b79,Echo-Stresse/Stress Test,product.categ_services_radiology_orders,service,10000,False,True
+RAD1021,b45815fe-97a2-4b74-bb70-18fccf46577e,Holter Test/ECG-24 heures,product.categ_services_radiology_orders,service,4000,False,True
+RAD1022,c95e3b1f-e4b6-42da-98d5-9f11763db05c,Echo Doppler Arterielle,product.categ_services_radiology_orders,service,1250,False,True
+RAD1023,9d8ac3c7-4ca3-4493-9adf-429955d4f2d0,Echo Doppler Scrotale,product.categ_services_radiology_orders,service,1250,False,True
+RAD1024,86d68691-5711-491a-9172-fd0816de4880,Echo Doppler Véneuse,product.categ_services_radiology_orders,service,1250,False,True
+RAD1025,85ed2353-5379-45be-ac27-ac7b82e74c0a,Endoscopie Digestive,product.categ_services_radiology_orders,service,2250,False,True
+RAD1026,d107afc9-6a61-401a-9574-daadb7a8020c,Epaule,product.categ_services_radiology_orders,service,1000,False,True
+RAD1027,f77e9735-6cea-4760-9ced-f76dc664bbc7,Fémur,product.categ_services_radiology_orders,service,1000,False,True
+RAD1028,9477ff2e-02dd-4203-9ace-8fc38c3d3692,Finger (3 Views),product.categ_services_radiology_orders,service,800,False,True
+RAD1029,c266ac5a-a019-41fe-89b8-c9b0d8b1530f,Genou,product.categ_services_radiology_orders,service,1000,False,True
+RAD1030,6d393221-a82a-4674-b9be-73224eb98867,Hanche,product.categ_services_radiology_orders,service,1000,False,True
+RAD1031,dd4b4f82-5f07-4fb2-8ee7-2602d413cefc,Hand (3 Views),product.categ_services_radiology_orders,service,800,False,True
+RAD1032,4f851123-73d9-4dfc-90e2-5b49fd558c6b,Jambe,product.categ_services_radiology_orders,service,1000,False,True
+RAD1033,b8ce2e8b-0d20-4664-90b2-ee60ed164983,Pied,product.categ_services_radiology_orders,service,800,False,True
+RAD1034,e389bcbb-807c-483d-9191-d39fc9de10d6,Poignet,product.categ_services_radiology_orders,service,800,False,True
+RAD1035,c654e09e-62d2-4754-9a0c-62d5d7240164,Sinus,product.categ_services_radiology_orders,service,1300,False,True
+RAD1036,9212685d-a475-45ce-9aa1-2d95c6c11fed,Sonographie Abdominale,product.categ_services_radiology_orders,service,1500,False,True
+RAD1037,6e3d4a12-333b-4bab-b08a-3ae35c528aee,Sonographie Abdomino-Pelvienne,product.categ_services_radiology_orders,service,3000,False,True
+RAD1038,b3a57d08-e986-4dc5-8de1-8c329cd0ad39,Sonographie de la Carotide,product.categ_services_radiology_orders,service,1500,False,True
+RAD1039,a35e3227-cd58-48b7-b023-4c9a5bc54587,Sonographie de la Thyroïde,product.categ_services_radiology_orders,service,1500,False,True
+RAD1040,4a0812b2-eb70-4ece-a11c-2e289ecb7db0,Sonographie Foetale Biophysicale Profile,product.categ_services_radiology_orders,service,1250,False,True
+RAD1041,d60eb339-2d75-4fb7-b64b-8f1969ad5c4c,Sonographie Gynécologique ou Pelvienne,product.categ_services_radiology_orders,service,1500,False,True
+RAD1042,acd32f87-e994-4e16-b4fb-ec31c2d37622,Sonographie Mammaire 1 sein,product.categ_services_radiology_orders,service,1500,False,True
+RAD1043,45b32878-6869-445c-900b-f237dbf50060,Sonographie Mammaire 2 seins,product.categ_services_radiology_orders,service,3000,False,True
+RAD1044,fe238ad9-4008-46b8-9254-6a3ad68d483b,Sonographie Obstétricale,product.categ_services_radiology_orders,service,1250,False,True
+RAD1045,f50c9e0d-4deb-4e91-a3ce-30f49a407000,Sonographie Renale,product.categ_services_radiology_orders,service,1500,False,True
+RAD1046,d83efa3d-0d52-40e3-88f5-ecdd4d2162e0,Thorax,product.categ_services_radiology_orders,service,1000,False,True
+RAD1047,2e62356d-4458-4e71-9fd8-d51c2d2fe2f9,Toe (3 Vieux),product.categ_services_radiology_orders,service,800,False,True
