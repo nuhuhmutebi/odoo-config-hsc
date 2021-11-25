@@ -1,5 +1,5 @@
 category_id/id,factor,rounding,uom_type,id,name
-product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category,f303ec09-ab78-43d9-abf2-06839f4eb491,Ampoule(s)
+product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,f303ec09-ab78-43d9-abf2-06839f4eb491,Ampoule(s)
 product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category,41a8984e-c1c1-4512-bce9-978fe7dd6502,Application(s)
 product.product_uom_categ_kgm,1,0.01,Reference Unit of Measure for this category,57f78dee-f842-4c23-91b8-5d234fd036f7,Gelule(s)
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,43519b0a-41dc-438c-820c-e3664f30d2ba,Dose(s)
@@ -18,28 +18,28 @@ product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,0d0b3654-75ab-4315-9264-2ddbb1e9400c,Tube(s)
 product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category,2b4ca899-528a-4b5a-a474-4adb2a299be2,Inhalateur(s)
 product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,Conteneur(s)
-product.product_uom_categ_unit,10,0.01,Bigger than the reference Unit of Measure,50d348c0-9290-4339-ad55-9a752ad65b1e,Paquet de 10
-product.product_uom_categ_unit,14,0.01,Bigger than the reference Unit of Measure,beabdc93-f6ad-4f7b-8d90-49766f95277d,Paquet de 14
-product.product_uom_categ_unit,15,0.01,Bigger than the reference Unit of Measure,2f83d39c-ac95-4b05-915f-5715a8992477,Paquet de 15
-product.product_uom_categ_unit,2,0.01,Bigger than the reference Unit of Measure,e047c792-e62d-4402-8cad-756a02d140cd,Paquet de 2
-product.product_uom_categ_unit,20,0.01,Bigger than the reference Unit of Measure,c509eecb-1566-4cd0-8a5e-524c95be94ec,Paquet de 20
+product.product_uom_categ_unit,0.1,0.01,Bigger than the reference Unit of Measure,50d348c0-9290-4339-ad55-9a752ad65b1e,Paquet de 10
+product.product_uom_categ_unit,0.07142857143,0.01,Bigger than the reference Unit of Measure,beabdc93-f6ad-4f7b-8d90-49766f95277d,Paquet de 14
+product.product_uom_categ_unit,0.06666666667,0.01,Bigger than the reference Unit of Measure,2f83d39c-ac95-4b05-915f-5715a8992477,Paquet de 15
+product.product_uom_categ_unit,0.5,0.01,Bigger than the reference Unit of Measure,e047c792-e62d-4402-8cad-756a02d140cd,Paquet de 2
+product.product_uom_categ_unit,0.05,0.01,Bigger than the reference Unit of Measure,c509eecb-1566-4cd0-8a5e-524c95be94ec,Paquet de 20
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,488fe969-ef43-4697-af25-048ac478f636,Paquet de 20g
-product.product_uom_categ_unit,28,0.01,Bigger than the reference Unit of Measure,5e65bae4-3356-4fb1-b3b8-c04b7bd40dbc,Paquet de 28
-product.product_uom_categ_unit,3,0.01,Bigger than the reference Unit of Measure,f4ef97de-7f88-48aa-bb23-9d7dec44cc53,Paquet de 3
-product.product_uom_categ_unit,30,0.01,Bigger than the reference Unit of Measure,4fc93bbe-bb54-4e20-ae5f-a5cec41de5fa,Paquet de 30
-product.product_uom_categ_unit,7,0.01,Bigger than the reference Unit of Measure,ecbf0c21-567f-4485-911d-24dd2a39f665,Paquet de 7
+product.product_uom_categ_unit,0.03571428571,0.01,Bigger than the reference Unit of Measure,5e65bae4-3356-4fb1-b3b8-c04b7bd40dbc,Paquet de 28
+product.product_uom_categ_unit,0.3333333333,0.01,Bigger than the reference Unit of Measure,f4ef97de-7f88-48aa-bb23-9d7dec44cc53,Paquet de 3
+product.product_uom_categ_unit,0.03333333333,0.01,Bigger than the reference Unit of Measure,4fc93bbe-bb54-4e20-ae5f-a5cec41de5fa,Paquet de 30
+product.product_uom_categ_unit,0.1428571429,0.01,Bigger than the reference Unit of Measure,ecbf0c21-567f-4485-911d-24dd2a39f665,Paquet de 7
 product.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,07c1dffa-04d5-43c5-a140-c50a50f34929,Boite
-product.product_uom_categ_unit,10,0.01,Bigger than the reference Unit of Measure,7af90e2b-eb9f-4ddd-b4f0-2179f8431abc,Boite de 10
-product.product_uom_categ_unit,100,0.01,Bigger than the reference Unit of Measure,4801928b-f31a-4341-bdf2-c982ecb649f0,Boite de 100
-product.product_uom_categ_unit,1000,0.01,Bigger than the reference Unit of Measure,b7c152ea-3412-40d3-8973-724d9e9ef77b,Boite de 1000
-product.product_uom_categ_unit,12,0.01,Bigger than the reference Unit of Measure,30e96e02-18ba-45b7-99a6-9f898c3934a0,Boite de 12
-product.product_uom_categ_unit,20,0.01,Bigger than the reference Unit of Measure,eb85991b-0e68-42bc-b192-8711546e48f6,Boite de 20
-product.product_uom_categ_unit,24,0.01,Bigger than the reference Unit of Measure,7109f2c6-5302-4952-b1bd-6e12f7e1626b,Boite de 24
-product.product_uom_categ_unit,30,0.01,Bigger than the reference Unit of Measure,d5c0ef0b-98d9-412f-967e-e1150db9c796,Boite de 30
-product.product_uom_categ_unit,40,0.01,Bigger than the reference Unit of Measure,eabc1b9b-5463-452f-835b-793da6795aef,Boite de 40
-product.product_uom_categ_unit,50,0.01,Bigger than the reference Unit of Measure,80671710-747a-453e-adf3-cad0466228e0,Boite de 50
-product.product_uom_categ_unit,500,0.01,Bigger than the reference Unit of Measure,916022db-1463-4a44-8871-8823233bec10,Boite de 500
-product.product_uom_categ_unit,60,0.01,Bigger than the reference Unit of Measure,d6182285-4b4a-4545-a8b1-a6bb12e3140e,Boite de 60
+product.product_uom_categ_unit,0.1,0.01,Bigger than the reference Unit of Measure,7af90e2b-eb9f-4ddd-b4f0-2179f8431abc,Boite de 10
+product.product_uom_categ_unit,0.01,0.01,Bigger than the reference Unit of Measure,4801928b-f31a-4341-bdf2-c982ecb649f0,Boite de 100
+product.product_uom_categ_unit,0.001,0.01,Bigger than the reference Unit of Measure,b7c152ea-3412-40d3-8973-724d9e9ef77b,Boite de 1000
+product.product_uom_categ_unit,0.08333333333,0.01,Bigger than the reference Unit of Measure,30e96e02-18ba-45b7-99a6-9f898c3934a0,Boite de 12
+product.product_uom_categ_unit,0.05,0.01,Bigger than the reference Unit of Measure,eb85991b-0e68-42bc-b192-8711546e48f6,Boite de 20
+product.product_uom_categ_unit,0.04166666667,0.01,Bigger than the reference Unit of Measure,7109f2c6-5302-4952-b1bd-6e12f7e1626b,Boite de 24
+product.product_uom_categ_unit,0.03333333333,0.01,Bigger than the reference Unit of Measure,d5c0ef0b-98d9-412f-967e-e1150db9c796,Boite de 30
+product.product_uom_categ_unit,0.025,0.01,Bigger than the reference Unit of Measure,eabc1b9b-5463-452f-835b-793da6795aef,Boite de 40
+product.product_uom_categ_unit,0.02,0.01,Bigger than the reference Unit of Measure,80671710-747a-453e-adf3-cad0466228e0,Boite de 50
+product.product_uom_categ_unit,0.002,0.01,Bigger than the reference Unit of Measure,916022db-1463-4a44-8871-8823233bec10,Boite de 500
+product.product_uom_categ_unit,0.01666666667,0.01,Bigger than the reference Unit of Measure,d6182285-4b4a-4545-a8b1-a6bb12e3140e,Boite de 60
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,6eaf22c5-60e2-4e10-bcd3-cbe875bb5a1f,Flacon
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,b9a4a775-c96b-4f0b-8c39-36ab96ae0d9a,Flacon de 1000ml
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,3b89795c-a004-4748-b916-bf81e95b792e,Flacon de 50ml
@@ -69,13 +69,13 @@ product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure
 product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,1049cf2c-3aa5-417a-a848-ddbccb8da893,Vial de 5ml
 product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,7e0f853e-8d3c-4bd2-95f9-2a10bda56059,Vial de 1ml
 product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,1d7d01e6-32fd-4037-941b-736060c2a825,1 dose de 0.1ml
-product.product_uom_categ_vol,1,0.01,Smaller than the reference Unit of Measure,cd2ed16e-8d4b-4bef-a419-11c9574ea560,Amp de 10ml
-product.product_uom_categ_vol,1,0.01,Smaller than the reference Unit of Measure,63539063-4c65-49af-8154-c102bab9b890,Amp de 2ml
-product.product_uom_categ_vol,1,0.01,Smaller than the reference Unit of Measure,a1b6d6af-a056-4a6d-ac23-78aca2ae892b,Amp de 3ml
-product.product_uom_categ_vol,1,0.01,Smaller than the reference Unit of Measure,8fc3062b-3368-4fdf-bd7c-13ef0aaaed8f,Amp de 4ml
-product.product_uom_categ_vol,5000,0.01,Smaller than the reference Unit of Measure,997f5876-160d-483d-877a-133329242217,Amp de 5ml
-product.product_uom_categ_vol,1000,0.01,Smaller than the reference Unit of Measure,03ccb8c1-f683-4e6c-8e9b-5c07101cfe34,Amp de 1ml
-product.product_uom_categ_vol,1,0.01,Smaller than the reference Unit of Measure,0f9146e4-b0d6-44a6-9444-480ed532d9f7,Amp de 2ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,cd2ed16e-8d4b-4bef-a419-11c9574ea560,Amp de 10ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,63539063-4c65-49af-8154-c102bab9b890,Amp de 2ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,a1b6d6af-a056-4a6d-ac23-78aca2ae892b,Amp de 3ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,8fc3062b-3368-4fdf-bd7c-13ef0aaaed8f,Amp de 4ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,997f5876-160d-483d-877a-133329242217,Amp de 5ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,03ccb8c1-f683-4e6c-8e9b-5c07101cfe34,Amp de 1ml
+product.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,0f9146e4-b0d6-44a6-9444-480ed532d9f7,Amp de 2ml
 product.product_uom_categ_kgm,1,0.01,Smaller than the reference Unit of Measure,c1ab30fa-f02b-432f-9f0e-62ff7fa09ac7,Seringue de 0.4ml
 product.product_uom_categ_kgm,1,0.01,Smaller than the reference Unit of Measure,23441b9b-947c-49a8-babf-75e55a82f6db,Tube de 20g
 product.product_uom_categ_kgm,1,0.01,Smaller than the reference Unit of Measure,c8eb9e8f-f51d-4a8f-9e3a-cdc13005aace,Tube de 30g
