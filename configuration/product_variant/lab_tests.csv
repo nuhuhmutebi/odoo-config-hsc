@@ -1,0 +1,110 @@
+id,name,categ_id/id,type,lst_price,purchase_ok,sale_ok
+init.b2cdf526-2c27-40ec-b363-8a8176d97def,Acide Urique,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.ccbba877-1de6-4f01-8191-c86a2a139b5f,Albumine dans le sang,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.a9caf4e2-9d08-4f17-a37d-075aaeec33e0,ALT (SGPT),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.d9cec232-89c8-4f05-85f8-18b2dcdd04b3,Amylase,product.categ_services_lab_test_orders,service,400,FALSE,TRUE
+init.4e4a3c4d-73bb-42e9-a4c9-a3173938e535,ASO (Antistreptolysine O),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.633a672a-134f-485f-8ea3-30dd087fcac6,AST (SGOT),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.7e9fb4ad-866e-4ad5-ae5c-1ff95e088492,Azote de l'Urée (BUN),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.afa4d5ed-0f81-4c16-8061-7647f46660e9,BHCG,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.4268c1ab-a6b9-49e0-a0eb-05793c10617a,Phosphatase Alcaline (ALKP),product.categ_services_lab_test_orders,service,300,FALSE,TRUE
+init.b3955cad-ae3d-4916-9a4b-a97137008dcf,Lactic Acid Dehydrogenase,product.categ_services_lab_test_orders,service,350,FALSE,TRUE
+init.896a4080-a67a-42ea-9c16-d76dd546f9b7,Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),product.categ_services_lab_test_orders,service,1250,FALSE,TRUE
+init.6ff9b4ea-4e1c-4f6b-b678-4c5912b71770,Cholesterol,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.da08820c-59b9-4b34-ba88-b4efcef2c388,Triglyceride,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.f2267a24-7d35-47ef-a221-71d39b948874,Very low-density lipoprotein cholesterol,product.categ_services_lab_test_orders,service,400,FALSE,TRUE
+init.0a673d0d-1baa-4cdd-ab95-a2ca26bc6efe,Low-density lipoprotein cholesterol,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.3712cc03-57a8-4ea3-bd24-98f883a944ae,High-density lipoprotein cholesterol,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.6b5afe48-603e-433b-935b-bae7480c9562,Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),product.categ_services_lab_test_orders,service,1000,FALSE,TRUE
+init.4c002480-8dd3-4a95-a37c-73acda95d696,Creatinine (CRSC),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.ca06f436-5bab-4e3d-95fb-8d142ca722e2,Urée,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.8bf2d98d-4245-485f-84eb-be58a2e04915,Bilan Renal (BUN-Creat-Urée-Acide Urique),product.categ_services_lab_test_orders,service,800,FALSE,TRUE
+init.6128dc03-bad8-44ef-9f4c-8bdd3a94ebd9,T3,product.categ_services_lab_test_orders,service,450,FALSE,TRUE
+init.d364f4e0-bcbe-4fee-8942-780748181187,T4,product.categ_services_lab_test_orders,service,450,FALSE,TRUE
+init.481f279f-c02a-40a9-bab5-6f008f7795ad,TSH,product.categ_services_lab_test_orders,service,500,FALSE,TRUE
+init.061e56ba-de5c-4561-9a76-7b157b891cb6,Bilan Thyroïdien,product.categ_services_lab_test_orders,service,1500,FALSE,TRUE
+init.20e3a85e-c705-4e99-884f-7b3bab4fe761,Calcium (Ca),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.577bb811-8ad7-4b01-a3a7-dc8b88a84755,Glycémie,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.62cb0655-e3da-41c3-a7f2-8574dec3ea41,Chimie Sanguine (Glycemie-BUN-Urée-Créatine),product.categ_services_lab_test_orders,service,750,FALSE,TRUE
+init.aa89391a-3aa9-4780-afdc-280e84020261,Chlore (Cl),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.173afc1a-9172-4d97-9d4b-9955656a671a,Potassium (K),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.1ec0206a-34a9-4c48-a8d1-73e20cca527a,Sodium (Na),product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.da6d4fef-b416-4def-9328-88e0ad404bbe,CO₂,product.categ_services_lab_test_orders,service,300,FALSE,TRUE
+init.16f83b5f-ac14-43ef-93fa-14d15884f78e,"Ionogramme (Na, K, Cl, CO₂)",product.categ_services_lab_test_orders,service,1000,FALSE,TRUE
+init.9afafe44-e017-47de-9445-4f4b0e448df9,Crachat,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.14fcec2c-3270-4b6f-974d-b237a62ee29a,Créatinine Kinase (CK),product.categ_services_lab_test_orders,service,350,FALSE,TRUE
+init.665d4e20-2fd5-4c73-9c77-dded5164b8c8,Créatinine Kinase MB,product.categ_services_lab_test_orders,service,350,FALSE,TRUE
+init.5384cbbf-717b-4d18-b300-f34606a5b73c,CRP,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.97685dc5-db61-471d-a11e-4e5ec8d470f4,ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),product.categ_services_lab_test_orders,service,1000,FALSE,TRUE
+init.f4ca3fa3-f2c1-47f2-9344-a6e2f82fc8b3,Fer (Fe),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.41737137-c9b5-4410-9b33-0ee8039908b7,Filaire test Diurne,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.785b40ec-5829-46b2-8bb8-e808f8621501,Filaire test Nocturne,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.9630356e-0543-4b05-b442-98748ee7a16f,Frottis Uretral + Goutte pendante,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.166f683e-7610-49d9-8a99-ff3cd3863291,Frottis Vaginal + Goutte pendante,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.7478a8d3-f42d-4c3f-934b-6a6ff1dcd912,Globules Blanches,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.3c9cb504-2664-45c9-bfd4-680e2f9bb431,Globules Rouges,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.9b10ba90-0463-4000-8a0c-4c9b3816c288,Glycemie Plasmatique,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.3448df1c-68c0-4921-8dcf-36f5eeff4343,Glycemie Capillaire,product.categ_services_lab_test_orders,service,150,FALSE,TRUE
+init.5dd677c5-ca41-465d-ad38-b2310954105c,Gravindex,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.220d5285-ad5f-449d-b601-bcde944c85fa,"Groupe Sanguin (ABO, Rh)",product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.8722f3af-3690-4194-9221-451b7048a43e,Hematocrite,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.2aa4c4bc-daae-47a0-a1cf-095f941b6a87,Taux de leucocytes,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.a8688067-2cd6-46d1-ba89-de233deee58a,Taux d’hématies,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.d9931701-1971-4c96-84ae-0bea7d916735,Hemoglobine,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.cc113e0e-14f6-4d6f-a837-4db76b779179,Neutrophiles,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.c94da765-58f0-432b-bb0d-5de494915ce6,Eosinophiles,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.7a3e04d9-7337-4591-ba81-e9c83c7183d5,Basophiles,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.671d631a-6787-4cda-a664-a87526de3a02,Lymphocites,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.b4f13159-6e74-4420-857f-15a4b538d50a,Monocytes,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.de9f079d-9172-47fb-8c48-48e0758bf948,Taux de reticulocytes,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.98194bce-4607-4131-b58f-a3f49e3f5b60,Mean Corpuscular Volume,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.fd3a2f03-35c8-47bb-a42d-ca81a61ab23b,Mean Corpuscular Hemoglobin Concentration,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.3e87d649-a53d-43a3-bb06-892a2b36d1a3,Mean Corpuscular Hemoglobin,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.31c8da4f-6e32-4174-9945-a2f5b7aa15c9,Plaquettes Sanguines,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.d7c62b0b-f7d2-451c-b980-3515df60489d,Hemogramme Complet,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.ec7fd2c3-cb77-4fe8-bb35-354fa37de045,Hemoglobine Glycolysilé(HBA1C),product.categ_services_lab_test_orders,service,1500,FALSE,TRUE
+init.14ea7b4d-6c0d-4eda-a8a2-01d8edb5ecce,H-Pilori dans les selles,product.categ_services_lab_test_orders,service,750,FALSE,TRUE
+init.40d9472b-fd37-418f-bd8c-da0942ed523f,H-Pilori test,product.categ_services_lab_test_orders,service,500,FALSE,TRUE
+init.cbe84fa7-c035-45f8-82a8-5941e9273614,Lame Peripherique,product.categ_services_lab_test_orders,service,150,FALSE,TRUE
+init.41340e80-7d51-4444-8ad8-d21280994602,Lipase,product.categ_services_lab_test_orders,service,400,FALSE,TRUE
+init.f5141095-5734-405c-8fd7-12350dfa686d,Magnesium (Mg),product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.92b3b57d-9f9f-4d16-a94d-774c0bd38f15,Malaria test,product.categ_services_lab_test_orders,service,150,FALSE,TRUE
+init.b3712d70-875a-4ac7-aba2-c14774e55c9e,Mantoux test,product.categ_services_lab_test_orders,service,150,FALSE,TRUE
+init.b3911053-fa59-4eec-ab3a-a1e791f3de16,Panel Cardiaque (CKMB-MYOGLOBINE-TREPONINE),product.categ_services_lab_test_orders,service,1500,FALSE,TRUE
+init.1e72558f-0554-4c00-a99d-94fd83878fd5,Proteine Serique,product.categ_services_lab_test_orders,service,400,FALSE,TRUE
+init.b92fab67-729f-49e6-9fde-6dfd40aa415b,Proteine Totale,product.categ_services_lab_test_orders,service,250,FALSE,TRUE
+init.42c7d71b-5763-4894-aa3a-7fccc378a7d6,PSA,product.categ_services_lab_test_orders,service,1500,FALSE,TRUE
+init.b82b8ee0-62bc-42cc-aae9-5fae283e0e60,PT-INR,product.categ_services_lab_test_orders,service,300,FALSE,TRUE
+init.60a512f8-46ab-470c-a8ec-7c7d30255291,RPR,product.categ_services_lab_test_orders,service,150,FALSE,TRUE
+init.71c5b4ae-5eb2-40a8-be87-3974bac78a95,Sang Occulte,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.a895379e-e2e8-448e-b9a1-4fd99b1af4fd,Selles,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.9aac4d91-2c2a-4dbe-869d-c411868d1d84,Sickling test,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.6d8fa52d-8b2b-44b8-932e-c18a55a8e9d4,Couleur,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.2e654056-fa3e-4dcb-a336-483abcd3a0e0,Aspect,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.8c93eb5a-6389-46c6-b42a-8c5bfd2bf882,Densité,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.406db7de-1364-44fe-814e-e7e0851cca8b,pH,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.f7b23f50-e122-442d-857d-4a83e7b0cbc3,Sang,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.278a085f-cccf-41be-9aa2-89f21b816071,Nitrites,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.cf5d745d-b6b4-4866-aece-af788cb74ff9,Acétone Cétone,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.72fc2f0d-a3ad-4256-9389-094e462a3a6d,Bilirubine,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.8ba070ef-c7fc-4669-970e-0d7e899d0165,Urobilinogène,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.244bb05b-65e9-4929-9bba-3cfd0650617c,Urine Protéines,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.0345d34d-08a1-4693-a184-c80330baf12b,Leucocytes,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.ef4d5e02-33d5-4783-9494-d7bd7198c889,Urine Albumine,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.e3363683-3d7d-4dea-8d39-e6e88b3ad74d,Bactéries,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.1e8391be-516c-4af2-9fa2-92a9d9135faf,Cellules épithéliales,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.0555f79e-060c-49a8-8aaf-f0565c09b709,Levures bourgeonnates,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.3c98acaf-0381-483d-b4ba-b73471b6533a,Levures simples,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.0075fe9b-f6cb-4a0c-a2fd-cb94bd78ef9c,Miscelium,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.6ad43ddb-f519-40ce-ba16-f7c68076f3be,Macrophages,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.77e4e7e0-4f97-4376-9d04-bd47e60d7738,Cellules rénales,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.3c0075f0-9f4b-477a-9a66-4c2d18ddd869,Cylindres leucocytaires,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.d16a3098-51a8-446a-ae7c-dcae5d7d8915,Cylindres granuleux,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.75e12c96-547e-4e91-9173-005d8d182e30,Cylindres hyalins,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.c6c814af-a9e0-45ab-9504-02e7ed09c954,Cylindres érythrocytaires,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.1c278fde-4f2e-494b-9725-e08a57ea87d8,Cristaux,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.0615ff49-4a4e-49e2-8cd0-d01258e58cf4,Trichomonas vagialis,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
+init.5355ed7b-f0ef-47a1-bf2b-c93b8f0303d7,Urines,product.categ_services_lab_test_orders,service,300,FALSE,TRUE
+init.cefdab88-2126-442f-95fc-d7a8a5af94e8,Vitesse de Sedimentation (VS),product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.ca28bdb2-c032-4b2f-b33f-fd73de27b271,Widal,product.categ_services_lab_test_orders,service,200,FALSE,TRUE
+init.7f66be56-1d90-46f4-b849-1eeeba4fae21,Zeihl,product.categ_services_lab_test_orders,service,0,FALSE,TRUE
