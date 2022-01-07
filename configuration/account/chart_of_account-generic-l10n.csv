@@ -6,8 +6,8 @@ l10n_generic_coa.1_conf_cas_interim1,Stock Interim Account (Received),account.da
 l10n_generic_coa.1_conf_cas_interim2,Stock Interim Account (Delivered),account.data_account_type_current_assets,101130,
 l10n_generic_coa.1_conf_a_recv,Account Receivable,account.data_account_type_receivable,101200,True
 l10n_generic_coa.1_conf_ova,Tax Paid,account.data_account_type_current_assets,101300,
-__export__.account_account_28,Bank,account.data_account_type_liquidity,101401,
-__export__.account_account_27,Cash,account.data_account_type_liquidity,101501,
+init.3303de86-2d21-4540-8495-bfd180543565,Bank,account.data_account_type_liquidity,101401,
+init.0690c129-eb90-4bc4-a2f0-b6154c733834,Cash,account.data_account_type_liquidity,101501,
 l10n_generic_coa.1_conf_o_income,Opening Income Account,account.data_account_type_other_income,101600,
 l10n_generic_coa.1_transfer_account_id,Liquidity Transfers,account.data_account_type_current_assets,101700,
 l10n_generic_coa.1_conf_ncas,Non-current assets,account.data_account_type_non_current_assets,102000,
@@ -27,4 +27,4 @@ l10n_generic_coa.1_a_expense_finance,Bank Fees,account.data_account_type_expense
 l10n_generic_coa.1_conf_a_expense,Expenses,account.data_account_type_expenses,220000,
 l10n_generic_coa.1_a_capital,Capital,account.data_account_type_equity,300100,
 l10n_generic_coa.1_a_dividends,Dividends,account.data_account_type_equity,300200,
-__export__.account_account_29,Undistributed Profits/Losses,account.data_unaffected_earnings,999999,
+init.91eb4619-2cdc-41e9-a153-416054a91c7f,Undistributed Profits/Losses,account.data_unaffected_earnings,999999,
