@@ -1,636 +1,575 @@
-id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_tmpl_id/id
-init.product_pricelist_patients_externes,Patients Externes,Discount included in the price,4,base.HTG,Product,Public Price,Fix Price,1,300,LAB1001
-,,,,,Product,Public Price,Fix Price,1,300,LAB1002
-,,,,,Product,Public Price,Fix Price,1,300,LAB1003
-,,,,,Product,Public Price,Fix Price,1,450,LAB1004
-,,,,,Product,Public Price,Fix Price,1,300,LAB1005
-,,,,,Product,Public Price,Fix Price,1,300,LAB1006
-,,,,,Product,Public Price,Fix Price,1,300,LAB1007
-,,,,,Product,Public Price,Fix Price,1,250,LAB1008
-,,,,,Product,Public Price,Fix Price,1,400,LAB1009
-,,,,,Product,Public Price,Fix Price,1,450,LAB1010
-,,,,,Product,Public Price,Fix Price,1,1500,LAB1011
-,,,,,Product,Public Price,Fix Price,1,300,LAB1012
-,,,,,Product,Public Price,Fix Price,1,350,LAB1013
-,,,,,Product,Public Price,Fix Price,1,500,LAB1014
-,,,,,Product,Public Price,Fix Price,1,0,LAB1015
-,,,,,Product,Public Price,Fix Price,1,0,LAB1016
-,,,,,Product,Public Price,Fix Price,1,1300,LAB1017
-,,,,,Product,Public Price,Fix Price,1,300,LAB1018
-,,,,,Product,Public Price,Fix Price,1,350,LAB1019
-,,,,,Product,Public Price,Fix Price,1,1000,LAB1020
-,,,,,Product,Public Price,Fix Price,1,600,LAB1021
-,,,,,Product,Public Price,Fix Price,1,600,LAB1022
-,,,,,Product,Public Price,Fix Price,1,600,LAB1023
-,,,,,Product,Public Price,Fix Price,1,2000,LAB1024
-,,,,,Product,Public Price,Fix Price,1,300,LAB1025
-,,,,,Product,Public Price,Fix Price,1,0,LAB1026
-,,,,,Product,Public Price,Fix Price,1,1000,LAB1027
-,,,,,Product,Public Price,Fix Price,1,300,LAB1028
-,,,,,Product,Public Price,Fix Price,1,350,LAB1029
-,,,,,Product,Public Price,Fix Price,1,300,LAB1030
-,,,,,Product,Public Price,Fix Price,1,400,LAB1031
-,,,,,Product,Public Price,Fix Price,1,1300,LAB1032
-,,,,,Product,Public Price,Fix Price,1,0,LAB1033
-,,,,,Product,Public Price,Fix Price,1,450,LAB1034
-,,,,,Product,Public Price,Fix Price,1,450,LAB1035
-,,,,,Product,Public Price,Fix Price,1,300,LAB1036
-,,,,,Product,Public Price,Fix Price,1,1250,LAB1037
-,,,,,Product,Public Price,Fix Price,1,300,LAB1038
-,,,,,Product,Public Price,Fix Price,1,300,LAB1039
-,,,,,Product,Public Price,Fix Price,1,350,LAB1040
-,,,,,Product,Public Price,Fix Price,1,300,LAB1041
-,,,,,Product,Public Price,Fix Price,1,300,LAB1042
-,,,,,Product,Public Price,Fix Price,1,300,LAB1043
-,,,,,Product,Public Price,Fix Price,1,300,LAB1044
-,,,,,Product,Public Price,Fix Price,1,300,LAB1045
-,,,,,Product,Public Price,Fix Price,1,300,LAB1046
-,,,,,Product,Public Price,Fix Price,1,300,LAB1047
-,,,,,Product,Public Price,Fix Price,1,300,LAB1048
-,,,,,Product,Public Price,Fix Price,1,0,LAB1049
-,,,,,Product,Public Price,Fix Price,1,0,LAB1050
-,,,,,Product,Public Price,Fix Price,1,0,LAB1051
-,,,,,Product,Public Price,Fix Price,1,0,LAB1052
-,,,,,Product,Public Price,Fix Price,1,0,LAB1053
-,,,,,Product,Public Price,Fix Price,1,0,LAB1054
-,,,,,Product,Public Price,Fix Price,1,0,LAB1055
-,,,,,Product,Public Price,Fix Price,1,0,LAB1056
-,,,,,Product,Public Price,Fix Price,1,0,LAB1057
-,,,,,Product,Public Price,Fix Price,1,350,LAB1058
-,,,,,Product,Public Price,Fix Price,1,0,LAB1059
-,,,,,Product,Public Price,Fix Price,1,0,LAB1060
-,,,,,Product,Public Price,Fix Price,1,0,LAB1061
-,,,,,Product,Public Price,Fix Price,1,350,LAB1062
-,,,,,Product,Public Price,Fix Price,1,300,LAB1063
-,,,,,Product,Public Price,Fix Price,1,2000,LAB1064
-,,,,,Product,Public Price,Fix Price,1,1000,LAB1065
-,,,,,Product,Public Price,Fix Price,1,750,LAB1066
-,,,,,Product,Public Price,Fix Price,1,250,LAB1067
-,,,,,Product,Public Price,Fix Price,1,500,LAB1068
-,,,,,Product,Public Price,Fix Price,1,350,LAB1069
-,,,,,Product,Public Price,Fix Price,1,200,LAB1070
-,,,,,Product,Public Price,Fix Price,1,200,LAB1071
-,,,,,Product,Public Price,Fix Price,1,2000,LAB1072
-,,,,,Product,Public Price,Fix Price,1,500,LAB1073
-,,,,,Product,Public Price,Fix Price,1,350,LAB1074
-,,,,,Product,Public Price,Fix Price,1,2000,LAB1075
-,,,,,Product,Public Price,Fix Price,1,400,LAB1076
-,,,,,Product,Public Price,Fix Price,1,250,LAB1077
-,,,,,Product,Public Price,Fix Price,1,300,LAB1078
-,,,,,Product,Public Price,Fix Price,1,300,LAB1079
-,,,,,Product,Public Price,Fix Price,1,300,LAB1080
-,,,,,Product,Public Price,Fix Price,1,0,LAB1081
-,,,,,Product,Public Price,Fix Price,1,0,LAB1082
-,,,,,Product,Public Price,Fix Price,1,0,LAB1083
-,,,,,Product,Public Price,Fix Price,1,0,LAB1084
-,,,,,Product,Public Price,Fix Price,1,0,LAB1085
-,,,,,Product,Public Price,Fix Price,1,0,LAB1086
-,,,,,Product,Public Price,Fix Price,1,0,LAB1087
-,,,,,Product,Public Price,Fix Price,1,0,LAB1088
-,,,,,Product,Public Price,Fix Price,1,0,LAB1089
-,,,,,Product,Public Price,Fix Price,1,0,LAB1090
-,,,,,Product,Public Price,Fix Price,1,0,LAB1091
-,,,,,Product,Public Price,Fix Price,1,0,LAB1092
-,,,,,Product,Public Price,Fix Price,1,0,LAB1093
-,,,,,Product,Public Price,Fix Price,1,0,LAB1094
-,,,,,Product,Public Price,Fix Price,1,0,LAB1095
-,,,,,Product,Public Price,Fix Price,1,0,LAB1096
-,,,,,Product,Public Price,Fix Price,1,0,LAB1097
-,,,,,Product,Public Price,Fix Price,1,0,LAB1098
-,,,,,Product,Public Price,Fix Price,1,0,LAB1099
-,,,,,Product,Public Price,Fix Price,1,0,LAB1100
-,,,,,Product,Public Price,Fix Price,1,0,LAB1101
-,,,,,Product,Public Price,Fix Price,1,0,LAB1102
-,,,,,Product,Public Price,Fix Price,1,0,LAB1103
-,,,,,Product,Public Price,Fix Price,1,0,LAB1104
-,,,,,Product,Public Price,Fix Price,1,0,LAB1105
-,,,,,Product,Public Price,Fix Price,1,300,LAB1106
-,,,,,Product,Public Price,Fix Price,1,300,LAB1107
-,,,,,Product,Public Price,Fix Price,1,300,LAB1108
-,,,,,Product,Public Price,Fix Price,1,0,LAB1109
-,,,,,Product,Public Price,Fix Price,1,3000,LAH1001
-,,,,,Product,Public Price,Fix Price,1,3000,LAH1002
-,,,,,Product,Public Price,Fix Price,1,1500,LAH1003
-,,,,,Product,Public Price,Fix Price,1,750,LAH1004
-,,,,,Product,Public Price,Fix Price,1,4000,LAH1005
-,,,,,Product,Public Price,Fix Price,1,2000,LAH1006
-,,,,,Product,Public Price,Fix Price,1,20000,ORL001
-,,,,,Product,Public Price,Fix Price,1,10000,ORL002
-,,,,,Product,Public Price,Fix Price,1,10000,ORL003
-,,,,,Product,Public Price,Fix Price,1,20000,ORL004
-,,,,,Product,Public Price,Fix Price,1,20000,ORL005
-,,,,,Product,Public Price,Fix Price,1,15000,ORL006
-,,,,,Product,Public Price,Fix Price,1,23000,ORL007
-,,,,,Product,Public Price,Fix Price,1,20000,ORL008
-,,,,,Product,Public Price,Fix Price,1,20000,ORL009
-,,,,,Product,Public Price,Fix Price,1,23000,ORL010
-,,,,,Product,Public Price,Fix Price,1,20000,ORL011
-,,,,,Product,Public Price,Fix Price,1,23000,ORL012
-,,,,,Product,Public Price,Fix Price,1,20000,ORL013
-,,,,,Product,Public Price,Fix Price,1,20000,ORL014
-,,,,,Product,Public Price,Fix Price,1,20000,ORL015
-,,,,,Product,Public Price,Fix Price,1,30000,ORL016
-,,,,,Product,Public Price,Fix Price,1,25000,ORL017
-,,,,,Product,Public Price,Fix Price,1,15000,ORL018
-,,,,,Product,Public Price,Fix Price,1,25000,ORL019
-,,,,,Product,Public Price,Fix Price,1,30000,ORL020
-,,,,,Product,Public Price,Fix Price,1,20000,ORL021
-,,,,,Product,Public Price,Fix Price,1,20000,ORL022
-,,,,,Product,Public Price,Fix Price,1,15000,ORL023
-,,,,,Product,Public Price,Fix Price,1,20000,ORL024
-,,,,,Product,Public Price,Fix Price,1,15000,ORL025
-,,,,,Product,Public Price,Fix Price,1,15000,ORL026
-,,,,,Product,Public Price,Fix Price,1,20000,ORL027
-,,,,,Product,Public Price,Fix Price,1,20000,ORL028
-,,,,,Product,Public Price,Fix Price,1,20000,ORL029
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1001
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1002
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1003
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1004
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1005
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1006
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1007
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1008
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1009
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1010
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1011
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1012
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1013
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1014
-,,,,,Product,Public Price,Fix Price,1,55000,CHG1015
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1016
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1017
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1018
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1019
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1020
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1021
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1022
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1023
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1024
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1025
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1026
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1027
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1028
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1029
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1030
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1031
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1032
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1033
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1034
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1035
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1036
-,,,,,Product,Public Price,Fix Price,1,55000,CHG1037
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1038
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1039
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1040
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1041
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1042
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1043
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1044
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1045
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1046
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1047
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1048
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1049
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1050
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1051
-,,,,,Product,Public Price,Fix Price,1,15000,CHG1052
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1053
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1054
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1055
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1056
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1057
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1058
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1059
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1060
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1061
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1062
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1063
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1064
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1065
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1066
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1067
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1068
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1069
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1070
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1071
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1072
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1073
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1074
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1075
-,,,,,Product,Public Price,Fix Price,1,25000,CHG1076
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1077
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1078
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1079
-,,,,,Product,Public Price,Fix Price,1,20000,CHG1080
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1081
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1082
-,,,,,Product,Public Price,Fix Price,1,30000,CHG1083
-,,,,,Product,Public Price,Fix Price,1,35000,CHG1084
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1085
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1086
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1087
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1088
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1089
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1090
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1091
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1092
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1093
-,,,,,Product,Public Price,Fix Price,1,45000,CHG1094
-,,,,,Product,Public Price,Fix Price,1,40000,CHG1095
-,,,,,Product,Public Price,Fix Price,1,40000,CHP1001
-,,,,,Product,Public Price,Fix Price,1,30000,CHP1002
-,,,,,Product,Public Price,Fix Price,1,25000,CHP1003
-,,,,,Product,Public Price,Fix Price,1,35000,CHP1004
-,,,,,Product,Public Price,Fix Price,1,35000,CHP1005
-,,,,,Product,Public Price,Fix Price,1,40000,CHP1006
-,,,,,Product,Public Price,Fix Price,1,25000,CHP1007
-,,,,,Product,Public Price,Fix Price,1,35000,CHP1008
-,,,,,Product,Public Price,Fix Price,1,30000,CHP1009
-,,,,,Product,Public Price,Fix Price,1,30000,CHP1010
-,,,,,Product,Public Price,Fix Price,1,30000,CHP1011
-,,,,,Product,Public Price,Fix Price,1,25000,CHP1012
-,,,,,Product,Public Price,Fix Price,1,25000,CHP1013
-,,,,,Product,Public Price,Fix Price,1,30000,CHP1014
-,,,,,Product,Public Price,Fix Price,1,55000,CHP1015
-,,,,,Product,Public Price,Fix Price,1,35000,CHP1016
-,,,,,Product,Public Price,Fix Price,1,40000,CHP1017
-,,,,,Product,Public Price,Fix Price,1,25000,MAF1001
-,,,,,Product,Public Price,Fix Price,1,20000,MAF1002
-,,,,,Product,Public Price,Fix Price,1,30000,MAF1003
-,,,,,Product,Public Price,Fix Price,1,25000,MAF1004
-,,,,,Product,Public Price,Fix Price,1,30000,MAF1005
-,,,,,Product,Public Price,Fix Price,1,35000,MAF1006
-,,,,,Product,Public Price,Fix Price,1,25000,MAF1007
-,,,,,Product,Public Price,Fix Price,1,25000,MAF1008
-,,,,,Product,Public Price,Fix Price,1,25000,MAF1009
-,,,,,Product,Public Price,Fix Price,1,20000,MAF1010
-,,,,,Product,Public Price,Fix Price,1,25000,MAF1011
-,,,,,Product,Public Price,Fix Price,1,10000,OBG1001
-,,,,,Product,Public Price,Fix Price,1,15000,OBG1002
-,,,,,Product,Public Price,Fix Price,1,40000,OBG1003
-,,,,,Product,Public Price,Fix Price,1,12000,OBG1004
-,,,,,Product,Public Price,Fix Price,1,12500,OBG1005
-,,,,,Product,Public Price,Fix Price,1,25000,OBG1006
-,,,,,Product,Public Price,Fix Price,1,25000,OBG1007
-,,,,,Product,Public Price,Fix Price,1,30000,OBG1008
-,,,,,Product,Public Price,Fix Price,1,50000,OBG1009
-,,,,,Product,Public Price,Fix Price,1,7500,OBG1010
-,,,,,Product,Public Price,Fix Price,1,12500,OBG1011
-,,,,,Product,Public Price,Fix Price,1,15000,OBG1012
-,,,,,Product,Public Price,Fix Price,1,25000,OBG1013
-,,,,,Product,Public Price,Fix Price,1,5000,OBG1014
-,,,,,Product,Public Price,Fix Price,1,7500,OBG1015
-,,,,,Product,Public Price,Fix Price,1,20000,OBG1016
-,,,,,Product,Public Price,Fix Price,1,22500,OBG1017
-,,,,,Product,Public Price,Fix Price,1,15000,OBG1018
-,,,,,Product,Public Price,Fix Price,1,3000,OBG1019
-,,,,,Product,Public Price,Fix Price,1,2500,OBG1020
-,,,,,Product,Public Price,Fix Price,1,12500,OBG1021
-,,,,,Product,Public Price,Fix Price,1,35000,OBG1022
-,,,,,Product,Public Price,Fix Price,1,30000,OBG1023
-,,,,,Product,Public Price,Fix Price,1,30000,OBG1024
-,,,,,Product,Public Price,Fix Price,1,35000,OBG1025
-,,,,,Product,Public Price,Fix Price,1,35000,OBG1026
-,,,,,Product,Public Price,Fix Price,1,23000,OBG1027
-,,,,,Product,Public Price,Fix Price,1,45000,OBG1028
-,,,,,Product,Public Price,Fix Price,1,45000,OBG1029
-,,,,,Product,Public Price,Fix Price,1,55000,OBG1030
-,,,,,Product,Public Price,Fix Price,1,55000,OBG1031
-,,,,,Product,Public Price,Fix Price,1,45000,OBG1032
-,,,,,Product,Public Price,Fix Price,1,7500,OBG1033
-,,,,,Product,Public Price,Fix Price,1,40000,OBG1034
-,,,,,Product,Public Price,Fix Price,1,45000,OBG1035
-,,,,,Product,Public Price,Fix Price,1,20000,OBG1036
-,,,,,Product,Public Price,Fix Price,1,20000,OBG1037
-,,,,,Product,Public Price,Fix Price,1,20000,OBG1038
-,,,,,Product,Public Price,Fix Price,1,55000,OBG1039
-,,,,,Product,Public Price,Fix Price,1,15000,OBG1040
-,,,,,Product,Public Price,Fix Price,1,55000,OBG1041
-,,,,,Product,Public Price,Fix Price,1,45000,OBG1042
-,,,,,Product,Public Price,Fix Price,1,40000,OBG1043
-,,,,,Product,Public Price,Fix Price,1,20000,OBG1044
-,,,,,Product,Public Price,Fix Price,1,30000,OBG1045
-,,,,,Product,Public Price,Fix Price,1,20000,OBG1046
-,,,,,Product,Public Price,Fix Price,1,35000,OBG1047
-,,,,,Product,Public Price,Fix Price,1,7500,OBG1048
-,,,,,Product,Public Price,Fix Price,1,7500,OPH1001
-,,,,,Product,Public Price,Fix Price,1,7500,OPH1002
-,,,,,Product,Public Price,Fix Price,1,4000,OPH1003
-,,,,,Product,Public Price,Fix Price,1,7500,OPH1004
-,,,,,Product,Public Price,Fix Price,1,4000,OPH1005
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1006
-,,,,,Product,Public Price,Fix Price,1,4000,OPH1007
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1008
-,,,,,Product,Public Price,Fix Price,1,15000,OPH1009
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1010
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1011
-,,,,,Product,Public Price,Fix Price,1,7500,OPH1012
-,,,,,Product,Public Price,Fix Price,1,5500,OPH1013
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1014
-,,,,,Product,Public Price,Fix Price,1,10000,OPH1015
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1016
-,,,,,Product,Public Price,Fix Price,1,6500,OPH1017
-,,,,,Product,Public Price,Fix Price,1,500,OPH1018
-,,,,,Product,Public Price,Fix Price,1,500,OPH1019
-,,,,,Product,Public Price,Fix Price,1,750,OPH1020
-,,,,,Product,Public Price,Fix Price,1,1000,OPH1021
-,,,,,Product,Public Price,Fix Price,1,1000,OPH1022
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1001
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1002
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1003
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1004
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1005
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1006
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1007
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1008
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1009
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1010
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1011
-,,,,,Product,Public Price,Fix Price,1,17500,ORT1012
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1013
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1014
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1015
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1016
-,,,,,Product,Public Price,Fix Price,1,15000,ORT1017
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1018
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1019
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1020
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1021
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1022
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1023
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1024
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1025
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1026
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1027
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1028
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1029
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1030
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1031
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1032
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1033
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1034
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1035
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1036
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1037
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1038
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1039
-,,,,,Product,Public Price,Fix Price,1,12500,ORT1040
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1041
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1042
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1043
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1044
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1045
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1046
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1047
-,,,,,Product,Public Price,Fix Price,1,750,ORT1048
-,,,,,Product,Public Price,Fix Price,1,750,ORT1049
-,,,,,Product,Public Price,Fix Price,1,750,ORT1050
-,,,,,Product,Public Price,Fix Price,1,750,ORT1051
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1052
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1053
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1054
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1055
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1056
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1057
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1058
-,,,,,Product,Public Price,Fix Price,1,8000,ORT1059
-,,,,,Product,Public Price,Fix Price,1,6500,ORT1060
-,,,,,Product,Public Price,Fix Price,1,17000,ORT1061
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1062
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1063
-,,,,,Product,Public Price,Fix Price,1,15000,ORT1064
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1065
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1066
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1067
-,,,,,Product,Public Price,Fix Price,1,1000,ORT1068
-,,,,,Product,Public Price,Fix Price,1,1500,ORT1069
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1070
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1071
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1072
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1073
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1074
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1075
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1076
-,,,,,Product,Public Price,Fix Price,1,1500,ORT1077
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1078
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1079
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1080
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1081
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1082
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1083
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1084
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1085
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1086
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1087
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1088
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1089
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1090
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1091
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1092
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1093
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1094
-,,,,,Product,Public Price,Fix Price,1,750,ORT1095
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1096
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1097
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1098
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1099
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1100
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1101
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1102
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1103
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1104
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1105
-,,,,,Product,Public Price,Fix Price,1,45000,ORT1106
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1107
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1108
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1109
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1110
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1111
-,,,,,Product,Public Price,Fix Price,1,3000,ORT1112
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1113
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1114
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1115
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1116
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1117
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1118
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1119
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1120
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1121
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1122
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1123
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1124
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1125
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1126
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1127
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1128
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1129
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1130
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1131
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1132
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1133
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1134
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1135
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1136
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1137
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1138
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1139
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1140
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1141
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1142
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1143
-,,,,,Product,Public Price,Fix Price,1,40000,ORT1144
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1145
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1146
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1147
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1148
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1149
-,,,,,Product,Public Price,Fix Price,1,30000,ORT1150
-,,,,,Product,Public Price,Fix Price,1,35000,ORT1151
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1152
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1153
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1154
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1155
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1156
-,,,,,Product,Public Price,Fix Price,1,7500,ORT1157
-,,,,,Product,Public Price,Fix Price,1,20000,ORT1158
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1159
-,,,,,Product,Public Price,Fix Price,1,25000,ORT1160
-,,,,,Product,Public Price,Fix Price,1,20000,URO1001
-,,,,,Product,Public Price,Fix Price,1,25000,URO1002
-,,,,,Product,Public Price,Fix Price,1,25000,URO1003
-,,,,,Product,Public Price,Fix Price,1,25000,URO1004
-,,,,,Product,Public Price,Fix Price,1,20000,URO1005
-,,,,,Product,Public Price,Fix Price,1,35000,URO1006
-,,,,,Product,Public Price,Fix Price,1,50000,URO1007
-,,,,,Product,Public Price,Fix Price,1,45000,URO1008
-,,,,,Product,Public Price,Fix Price,1,10000,URO1009
-,,,,,Product,Public Price,Fix Price,1,12500,URO1010
-,,,,,Product,Public Price,Fix Price,1,25000,URO1011
-,,,,,Product,Public Price,Fix Price,1,7500,URO1012
-,,,,,Product,Public Price,Fix Price,1,35000,URO1013
-,,,,,Product,Public Price,Fix Price,1,25000,URO1014
-,,,,,Product,Public Price,Fix Price,1,25000,URO1015
-,,,,,Product,Public Price,Fix Price,1,15000,URO1016
-,,,,,Product,Public Price,Fix Price,1,35000,URO1017
-,,,,,Product,Public Price,Fix Price,1,30000,URO1018
-,,,,,Product,Public Price,Fix Price,1,35000,URO1019
-,,,,,Product,Public Price,Fix Price,1,25000,URO1020
-,,,,,Product,Public Price,Fix Price,1,30000,URO1021
-,,,,,Product,Public Price,Fix Price,1,25000,URO1022
-,,,,,Product,Public Price,Fix Price,1,20000,URO1023
-,,,,,Product,Public Price,Fix Price,1,25000,URO1024
-,,,,,Product,Public Price,Fix Price,1,40000,URO1025
-,,,,,Product,Public Price,Fix Price,1,50000,URO1026
-,,,,,Product,Public Price,Fix Price,1,65000,URO1027
-,,,,,Product,Public Price,Fix Price,1,45000,URO1028
-,,,,,Product,Public Price,Fix Price,1,45000,URO1029
-,,,,,Product,Public Price,Fix Price,1,25000,URO1030
-,,,,,Product,Public Price,Fix Price,1,40000,URO1031
-,,,,,Product,Public Price,Fix Price,1,30000,URO1032
-,,,,,Product,Public Price,Fix Price,1,2500,RAD1001
-,,,,,Product,Public Price,Fix Price,1,2250,RAD1002
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1003
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1004
-,,,,,Product,Public Price,Fix Price,1,1200,RAD1005
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1006
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1007
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1008
-,,,,,Product,Public Price,Fix Price,1,1200,RAD1009
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1010
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1011
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1012
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1013
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1014
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1015
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1016
-,,,,,Product,Public Price,Fix Price,1,500,RAD1017
-,,,,,Product,Public Price,Fix Price,1,500,RAD1018
-,,,,,Product,Public Price,Fix Price,1,2300,RAD1019
-,,,,,Product,Public Price,Fix Price,1,12500,RAD1020
-,,,,,Product,Public Price,Fix Price,1,5000,RAD1021
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1022
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1023
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1024
-,,,,,Product,Public Price,Fix Price,1,2700,RAD1025
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1026
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1027
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1028
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1029
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1030
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1031
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1032
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1033
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1034
-,,,,,Product,Public Price,Fix Price,1,1750,RAD1035
-,,,,,Product,Public Price,Fix Price,1,1750,RAD1036
-,,,,,Product,Public Price,Fix Price,1,3500,RAD1037
-,,,,,Product,Public Price,Fix Price,1,1750,RAD1038
-,,,,,Product,Public Price,Fix Price,1,1750,RAD1039
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1040
-,,,,,Product,Public Price,Fix Price,1,1750,RAD1041
-,,,,,Product,Public Price,Fix Price,1,2000,RAD1042
-,,,,,Product,Public Price,Fix Price,1,4000,RAD1043
-,,,,,Product,Public Price,Fix Price,1,1500,RAD1044
-,,,,,Product,Public Price,Fix Price,1,1750,RAD1045
-,,,,,Product,Public Price,Fix Price,1,1250,RAD1046
-,,,,,Product,Public Price,Fix Price,1,1000,RAD1047
-,,,,,Product,Public Price,Fix Price,1,500,PRO1001
-,,,,,Product,Public Price,Fix Price,1,500,PRO1002
-,,,,,Product,Public Price,Fix Price,1,0,PRO1003
-,,,,,Product,Public Price,Fix Price,1,0,PRO1004
-,,,,,Product,Public Price,Fix Price,1,0,PRO1005
-,,,,,Product,Public Price,Fix Price,1,0,PRO1006
-,,,,,Product,Public Price,Fix Price,1,0,PRO1007
-,,,,,Product,Public Price,Fix Price,1,0,PRO1008
-,,,,,Product,Public Price,Fix Price,1,0,PRO1009
-,,,,,Product,Public Price,Fix Price,1,0,PRO1010
-,,,,,Product,Public Price,Fix Price,1,0,PRO1011
-,,,,,Product,Public Price,Fix Price,1,0,PRO1012
-,,,,,Product,Public Price,Fix Price,1,0,PRO1013
-,,,,,Product,Public Price,Fix Price,1,0,PRO1014
-,,,,,Product,Public Price,Fix Price,1,0,PRO1015
-,,,,,Product,Public Price,Fix Price,1,0,PRO1016
-,,,,,Product,Public Price,Fix Price,1,1500,PRO1017
-,,,,,Product,Public Price,Fix Price,1,0,PRO1018
-,,,,,Product,Public Price,Fix Price,1,0,PRO1019
-,,,,,Product,Public Price,Fix Price,1,0,PRO1020
-,,,,,Product,Public Price,Fix Price,1,0,PRO1021
-,,,,,Product,Public Price,Fix Price,1,0,PRO1022
-,,,,,Product,Public Price,Fix Price,1,0,PRO1023
-,,,,,Product,Public Price,Fix Price,1,0,PRO1024
-,,,,,Product,Public Price,Fix Price,1,0,PRO1025
-,,,,,Product,Public Price,Fix Price,1,0,PRO1026
-,,,,,Product,Public Price,Fix Price,1,0,PRO1027
-,,,,,Product,Public Price,Fix Price,1,1000,PRO1028
-,,,,,Product,Public Price,Fix Price,1,750,PRO1029
-,,,,,Product,Public Price,Fix Price,1,500,PRO1030
-,,,,,Product,Public Price,Fix Price,1,1000,PRO1031
-,,,,,Product,Public Price,Fix Price,1,750,PRO1032
-,,,,,Product,Public Price,Fix Price,1,2000,PRO1033
-,,,,,Product,Public Price,Fix Price,1,1500,PRO1034
-,,,,,Product,Public Price,Fix Price,1,1500,PRO1035
-,,,,,Product,Public Price,Fix Price,1,1000,PRO1036
-,,,,,Product,Public Price,Fix Price,1,2000,PRO1037
-,,,,,Product,Public Price,Fix Price,1,1500,PRO1038
-,,,,,Product,Public Price,Fix Price,1,1500,PRO1039
-,,,,,Product,Public Price,Fix Price,1,2000,PRO1040
-,,,,,Product,Public Price,Fix Price,1,0,PRO1041
-,,,,,Product,Public Price,Fix Price,1,0,PRO1042
-,,,,,Product,Public Price,Fix Price,1,0,PRO1043
-,,,,,Product,Public Price,Fix Price,1,0,PRO1044
-,,,,,Product,Public Price,Fix Price,1,0,PRO1045
-,,,,,Product,Public Price,Fix Price,1,5000,PLA1001
-,,,,,Product,Public Price,Fix Price,1,7500,PLA1002
-,,,,,Product,Public Price,Fix Price,1,5000,PLA1003
-,,,,,Product,Public Price,Fix Price,1,1500,PLA1004
-,,,,,Product,Public Price,Fix Price,1,7500,PAN2001
-,,,,,Product,Public Price,Fix Price,1,5000,PAN2002
-,,,,,Product,Public Price,Fix Price,1,9000,PAN2003
-,,,,,Product,Public Price,Fix Price,1,6500,PAN2004
-,,,,,Product,Public Price,Fix Price,1,6500,PAN2005
-,,,,,Product,Public Price,Fix Price,1,6500,PAN2006
-,,,,,Product,Public Price,Fix Price,1,4000,PAN2007
-,,,,,Product,Public Price,Fix Price,1,2500,PAN2008
-,,,,,Product,Public Price,Fix Price,1,4000,PAN2009
-,,,,,Product,Public Price,Fix Price,1,3000,PAN2010
+id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_id/id
+init.product_pricelist_patients_externes,Patients Externes,Discount included in the price,4,base.HTG,Product Variant,Sales Price,Fixed Price,1,300,init.b2cdf526-2c27-40ec-b363-8a8176d97def
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.ccbba877-1de6-4f01-8191-c86a2a139b5f
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.a9caf4e2-9d08-4f17-a37d-075aaeec33e0
+,,,,,Product Variant,Sales Price,Fixed Price,1,450,init.d9cec232-89c8-4f05-85f8-18b2dcdd04b3
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.4e4a3c4d-73bb-42e9-a4c9-a3173938e535
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.633a672a-134f-485f-8ea3-30dd087fcac6
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.7e9fb4ad-866e-4ad5-ae5c-1ff95e088492
+,,,,,Product Variant,Sales Price,Fixed Price,1,250,init.afa4d5ed-0f81-4c16-8061-7647f46660e9
+,,,,,Product Variant,Sales Price,Fixed Price,1,400,init.4268c1ab-a6b9-49e0-a0eb-05793c10617a
+,,,,,Product Variant,Sales Price,Fixed Price,1,450,init.b3955cad-ae3d-4916-9a4b-a97137008dcf
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.896a4080-a67a-42ea-9c16-d76dd546f9b7
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.6ff9b4ea-4e1c-4f6b-b678-4c5912b71770
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.da08820c-59b9-4b34-ba88-b4efcef2c388
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.f2267a24-7d35-47ef-a221-71d39b948874
+,,,,,Product Variant,Sales Price,Fixed Price,1,1300,init.6b5afe48-603e-433b-935b-bae7480c9562
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.4c002480-8dd3-4a95-a37c-73acda95d696
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.ca06f436-5bab-4e3d-95fb-8d142ca722e2
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.8bf2d98d-4245-485f-84eb-be58a2e04915
+,,,,,Product Variant,Sales Price,Fixed Price,1,600,init.6128dc03-bad8-44ef-9f4c-8bdd3a94ebd9
+,,,,,Product Variant,Sales Price,Fixed Price,1,600,init.d364f4e0-bcbe-4fee-8942-780748181187
+,,,,,Product Variant,Sales Price,Fixed Price,1,600,init.481f279f-c02a-40a9-bab5-6f008f7795ad
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.061e56ba-de5c-4561-9a76-7b157b891cb6
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.20e3a85e-c705-4e99-884f-7b3bab4fe761
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.62cb0655-e3da-41c3-a7f2-8574dec3ea41
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.aa89391a-3aa9-4780-afdc-280e84020261
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.173afc1a-9172-4d97-9d4b-9955656a671a
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.1ec0206a-34a9-4c48-a8d1-73e20cca527a
+,,,,,Product Variant,Sales Price,Fixed Price,1,400,init.da6d4fef-b416-4def-9328-88e0ad404bbe
+,,,,,Product Variant,Sales Price,Fixed Price,1,1300,init.16f83b5f-ac14-43ef-93fa-14d15884f78e
+,,,,,Product Variant,Sales Price,Fixed Price,1,450,init.14fcec2c-3270-4b6f-974d-b237a62ee29a
+,,,,,Product Variant,Sales Price,Fixed Price,1,450,init.665d4e20-2fd5-4c73-9c77-dded5164b8c8
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.5384cbbf-717b-4d18-b300-f34606a5b73c
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.97685dc5-db61-471d-a11e-4e5ec8d470f4
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.f4ca3fa3-f2c1-47f2-9344-a6e2f82fc8b3
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.41737137-c9b5-4410-9b33-0ee8039908b7
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.785b40ec-5829-46b2-8bb8-e808f8621501
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.9630356e-0543-4b05-b442-98748ee7a16f
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.166f683e-7610-49d9-8a99-ff3cd3863291
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.7478a8d3-f42d-4c3f-934b-6a6ff1dcd912
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.3c9cb504-2664-45c9-bfd4-680e2f9bb431
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.9b10ba90-0463-4000-8a0c-4c9b3816c288
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.3448df1c-68c0-4921-8dcf-36f5eeff4343
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.5dd677c5-ca41-465d-ad38-b2310954105c
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.220d5285-ad5f-449d-b601-bcde944c85fa
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.de9f079d-9172-47fb-8c48-48e0758bf948
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.31c8da4f-6e32-4174-9945-a2f5b7aa15c9
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.d7c62b0b-f7d2-451c-b980-3515df60489d
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.ec7fd2c3-cb77-4fe8-bb35-354fa37de045
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.14ea7b4d-6c0d-4eda-a8a2-01d8edb5ecce
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.40d9472b-fd37-418f-bd8c-da0942ed523f
+,,,,,Product Variant,Sales Price,Fixed Price,1,250,init.cbe84fa7-c035-45f8-82a8-5941e9273614
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.41340e80-7d51-4444-8ad8-d21280994602
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.f5141095-5734-405c-8fd7-12350dfa686d
+,,,,,Product Variant,Sales Price,Fixed Price,1,200,init.92b3b57d-9f9f-4d16-a94d-774c0bd38f15
+,,,,,Product Variant,Sales Price,Fixed Price,1,200,init.b3712d70-875a-4ac7-aba2-c14774e55c9e
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.b3911053-fa59-4eec-ab3a-a1e791f3de16
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.1e72558f-0554-4c00-a99d-94fd83878fd5
+,,,,,Product Variant,Sales Price,Fixed Price,1,350,init.b92fab67-729f-49e6-9fde-6dfd40aa415b
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.42c7d71b-5763-4894-aa3a-7fccc378a7d6
+,,,,,Product Variant,Sales Price,Fixed Price,1,400,init.b82b8ee0-62bc-42cc-aae9-5fae283e0e60
+,,,,,Product Variant,Sales Price,Fixed Price,1,250,init.60a512f8-46ab-470c-a8ec-7c7d30255291
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.71c5b4ae-5eb2-40a8-be87-3974bac78a95
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.a895379e-e2e8-448e-b9a1-4fd99b1af4fd
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.9aac4d91-2c2a-4dbe-869d-c411868d1d84
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.5355ed7b-f0ef-47a1-bf2b-c93b8f0303d7
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.cefdab88-2126-442f-95fc-d7a8a5af94e8
+,,,,,Product Variant,Sales Price,Fixed Price,1,300,init.ca28bdb2-c032-4b2f-b33f-fd73de27b271
+,,,,,Product Variant,Sales Price,Fixed Price,1,3000,init.bbcce99c-72fa-4a73-9a3d-75ae46f53c7e
+,,,,,Product Variant,Sales Price,Fixed Price,1,3000,init.9500bc0d-db27-442c-890d-3780f1717156
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.bd076d60-4415-4e3a-bb1f-52ad5b296088
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.87dc951a-e405-45dd-9c21-a43e7d6190d2
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.10b1ae64-c75c-490e-befa-6ab7c27b9e40
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.cbb6bba3-28ea-45ce-9c0f-03c0d49d8288
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.9377261f-51f4-49fa-88d5-22d700ef451a
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.766ae395-936c-4dba-8af1-81e4337c95f7
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.3f0004ae-3358-44a7-99fc-d4962e814165
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.53a644ff-11f4-4056-b7bd-7d6de26d5ec4
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d98ab98f-e4d2-4768-8ea9-0dc4cf3ce64d
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.eeb17000-c550-4ebc-bce6-3d8511c826b8
+,,,,,Product Variant,Sales Price,Fixed Price,1,23000,init.641adb47-4762-409c-bfb6-1459d43c69d9
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.ef09e691-be97-4342-9f7c-13b3d2c99c57
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.6521905f-f2f6-4e2b-9e60-81875b8360c0
+,,,,,Product Variant,Sales Price,Fixed Price,1,23000,init.81af7d7e-da97-476c-9608-6970fb14619f
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.fdc68407-9e0c-4027-8db7-195181902fcd
+,,,,,Product Variant,Sales Price,Fixed Price,1,23000,init.8471106c-fa95-4df2-b764-04d777799b21
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.6f1fd0cb-32cd-4d5a-a07a-00e0d8709cd2
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.3b95e2db-954a-4afe-93da-fdda66dc280e
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d59a83ee-b5d0-45ad-b8d4-53d119b8cfa8
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.3c25dfeb-e488-4539-ab64-1494d77e5616
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.f7004b3a-2f3f-40c2-9203-fa8d24b4783b
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.447cd68e-fd33-407d-ac5c-24c81b992816
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.dd0f49ca-8001-4c72-b211-e355be8d7a8b
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.f81e2d32-3b72-49aa-a199-19602d1588a7
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d3543e8f-1561-43be-9f96-2b1bed0d83fe
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.dfa04c22-bf42-4e63-9878-424af28faf1c
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.b8506576-7359-4adf-96f0-e5400b5087a2
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.777485b9-9bc5-4b84-a575-2cb08a074328
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.908b995d-9dcc-4356-b45c-27e66a9577a3
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.6b401cef-025d-4ad9-bdfd-9951941d633e
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.a9fa6c7b-8ed0-4906-8c84-135ac328a0b2
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.9c899fb8-982b-451a-b19f-a6700a555df9
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.8e95c1e5-b49c-4b32-8648-b6386e955e44
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.a37a10c5-b5e6-48bf-9b54-dec61c6bb228
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.06a9ab43-e0d3-4ca3-85f5-f276437e44d5
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.ca7dc7a0-0fcf-45e4-99a8-a4060b3df2f2
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.b30a14d3-de78-4ccb-b6d9-26028a9474e0
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.e646c4ac-61c6-4e28-8ef0-fc9e300fd356
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.ff24865a-3b1c-4535-a237-a9d1c5446766
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.48dedfe4-096b-4167-9a9f-0601479f8bea
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.74d18eb5-8cc8-47f2-86f2-acd90e0ccc83
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.c75be2cb-a405-455f-a95e-0389763dcc2d
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.fdfc9fc4-d988-4f0f-82cb-4e9ca87feb96
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.3adc220d-6c23-466e-8099-d1523f619cd7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.5b956ec1-6fc7-478e-9107-78d6bb8ea6a8
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.89896dd2-365e-412e-b31c-161651280e56
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.31eb5bcb-8f1e-47c1-9398-19afc1cde3e2
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.dfebef8b-9155-4a41-ac5e-7c2db4f012d3
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.b555bd2e-d6f2-4960-bec7-6e02f91b39ff
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.f07b575e-2314-4ef7-8fb4-c8b2a946af20
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.e71c7f87-f6ee-4ed0-b62a-566f2675f26b
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.4b64133e-a2ed-4081-ab4c-33a78ac4def3
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.6f086c18-9f6f-455a-a728-6545da7edd9b
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.1cf66462-effe-442f-964e-abc07769ba1c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.cf2f07c4-3472-488b-a9f8-31fea2602782
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.c563f23f-f198-4c4e-977e-156398987b57
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.d0d544d4-9e44-4729-903f-0b96d3b6b0b6
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a6325c0b-ca20-43c7-8af5-4513ad367a89
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.b9106e1a-a318-4642-b221-d3edf8811dd4
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.4426413f-6fc6-4476-bdec-4de7a9760113
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.db0947a5-683f-4210-a8b0-fdcfeabbb2cb
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.bdedc945-2ae3-4a99-a7ec-dd4a11c1bc4c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.031cf01d-3c6b-408b-98c4-06d998a1fecd
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.382240e7-2790-488f-b707-e9e86ce3ddbb
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.d8c740f1-f613-41db-b72d-60a2cce1db5b
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.c95238bf-0bbb-4f21-adf5-90dfe7453e82
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.9c00f14c-1cec-494a-8ae2-2e6e9f10b881
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.8350f01e-884c-4513-a290-54484658d14f
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.5f5d2fa7-80bd-448b-abc4-e7e971b2851d
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.d49a6d2a-cc2e-4828-b864-328b2b6dbd6f
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.79f29d2d-1822-4231-99b6-1d2d47f85dd1
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.31d0bb43-88f4-4e1c-ba13-b7b7319ee74b
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.d8c485a0-a2ad-4801-8af0-10e0af9c857b
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.4f9570da-5ed1-4ff7-956c-357c63ff379a
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.ba0e6fb2-8ed1-4329-826f-09cbf9eff59f
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.e91eb72a-5190-4818-8a93-c8f8d8fb429c
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.59e097ce-db6c-4c2b-9c1a-066ba525e796
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.ad8dbe0a-6629-469e-a6cb-1dc9b9bcef63
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.9ef2aecb-cfe4-4af1-9ecb-21c2a37fac74
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.0a68eef3-2894-4b26-9a18-a922e5fe26c2
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.927bedd7-5ef4-478e-9fe7-7ce17a636aef
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.86dd5c5a-e3ac-44f0-b24f-01a215522118
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.83a46f7a-1317-4c0f-aa58-d518ed1aebe2
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.050aad59-4674-4804-88d4-c5d572233ba5
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.768863a3-efe0-4554-8e9e-6615ecb7f51b
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.8fccddbc-62f8-4b1f-98ee-4433391ccd66
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.918b51bf-dab3-4b7a-a413-486dbdefcdcb
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.2a82cdc2-3a7a-47a4-a192-9c1294e6ce81
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.8f720b9d-8b4d-4868-bb49-92ac2d2c59e2
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.683639b3-7972-451a-b995-7db24c77ca3d
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.3a52dc56-87e1-4473-ae17-21673f645751
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.055113b9-6763-4bb2-bedc-08b542dde53a
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.b767429c-8d5e-4cf2-a4e5-a25add81d78f
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.1dade6e6-fbcc-425a-ae2b-6a33fbb0321d
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.63e0de56-5bc4-4cc2-853c-730b0935fc7d
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.c77a4532-2329-4d05-a16a-fc39f1ad898c
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.7ae859e8-8ad2-4cc0-9a38-4fe7160b0b88
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.5c35ffa9-3751-4e27-b4d6-4e0f8d1f8c46
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.11552a69-f641-4c92-ab5b-b1256f919989
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.0128ed2a-aa82-4f8e-ad3d-a26e1764bd99
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.7eefedbb-1085-451c-a578-0a0a9ae9d40f
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.8c6bcc4d-2932-4717-b277-947e411cf315
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.a1e4a707-2de5-45cc-b548-1b86bae4423c
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.ceaf7353-f2ea-4daf-a7e6-69f24ca0f43c
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.237a4537-ce79-4672-9328-3889e8745167
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.52653d4f-c8cc-4c5e-9531-e3747da9c5d4
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.19ac3557-3b36-4465-879c-1b8d50dead39
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.9c4e3715-0c6e-4df0-abdd-98da3ff62ca4
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.683abf72-f9d2-48a4-9adb-9b885123ff04
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.d28a08aa-30e4-4e08-8a4d-392359d94bd2
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.770a6c49-260a-48bc-8825-48c82c9c3854
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.3b81f57a-2758-4253-82ce-fe643af633d9
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.99431313-22cd-4e48-8f3e-21bcd5055d10
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.9b113d30-00ac-45e1-bee9-098b9d542497
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.b8c762b0-257f-4e9d-b1d8-6653be501cf7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.12eda9fe-b44a-48e9-b6be-49f85bddffa5
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.a4bc5514-9e7b-4a92-a165-b64de5e30d79
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.cc52f3af-a706-43ba-bf62-72fc7fa98f2d
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.9acea618-3b5a-49c9-b032-143c032661e0
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.b1d66eac-7de1-4264-974e-28f48b194279
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.2467e748-7e5f-47b9-8e20-2cbc303258b3
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.ba9e6301-e371-4590-869a-c534d494c8d1
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.72fda838-1017-494e-b447-735da261dd97
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.772588da-bc8a-4e9a-8695-b84155a2c8c5
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.3fe50f8b-d97f-4834-8ad6-206753c984c7
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.7eb72443-4679-4df2-8078-1e15b5c594f8
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.4fc9f2f7-f2df-4f90-b18e-9dccd37f82c3
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.84bf1003-2f6d-41f5-b8ca-df75c4b1b5f9
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.80ed3b50-0116-4eef-b55a-be234ab44478
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.229c5e7d-00b4-4de5-a754-9da64bac9099
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.4db771df-22bf-46e2-afb6-2f7b78a567bf
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.e2e535b9-637d-4ba1-90db-a18c8a786d4e
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.c82b7334-099d-4199-bce1-ffe156887efd
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.598b4e67-b605-45c9-9bf5-1877cf21211b
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.e7008425-9ac2-47d1-84d7-5ec0de8f0d9f
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.ab74e533-9e8d-467b-a329-3c42730275bc
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.4de2d738-dfe8-4fe8-a6d9-4401eba8c534
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.321408b0-2d73-4c8d-86df-14920395967c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.006a3b54-7d55-415d-868d-493aab21cdf8
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.8876184d-ac8c-4a24-a659-76e94ca339db
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.931112b7-714c-404e-8d42-dd4fdc6c7214
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.975111ff-d4b6-4a34-ae61-a5e738dcb39d
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.3c0bc91e-4e5b-446f-b20d-c5656f96870b
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.5a10c48c-6b84-4ad1-87ec-e8e902f18ab9
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.93485053-fe58-44f6-b95d-d8bbf6c26ff6
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.718f246c-add5-469e-abf1-38a4088a290a
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.5a3459bb-5e97-487c-abcd-60c5170d24aa
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.8da72e40-0713-4996-8142-998543264b9d
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.ab404219-1963-4041-bffb-2d609409523d
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.926e6279-8e93-4ea3-9277-f74dc2c60eaa
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.133d27f6-3510-44cb-869a-4a5215c058ff
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.76f2224e-bdcc-43ce-9896-d9358ceea341
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.7941561b-c719-43f8-bee6-ba40a8ae0f2c
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a470ffc0-4639-495a-acbf-d185d89c8f38
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.e6dff466-84c2-4b09-bcb0-edc20e00cca9
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a99108be-b376-4646-81f9-06cb274ccb21
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.bfbabb37-c7b7-4577-9e4a-5dea413d5694
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.5988a452-e945-4261-acbc-e039bcd095b3
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.6232db80-2575-4bf5-9560-19b2587217bf
+,,,,,Product Variant,Sales Price,Fixed Price,1,12000,init.3a7e96d2-db84-4b09-86e9-adf9128d4aa0
+,,,,,Product Variant,Sales Price,Fixed Price,1,12500,init.76147019-540f-4e05-81a2-3fd176417331
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.55571698-9722-4c57-bb6c-b4c8369fa3ad
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.8e8abf4e-1199-410c-8d79-d51b38a872d4
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.b2ef8df4-fb55-4eab-b4fc-b70b0e710b9d
+,,,,,Product Variant,Sales Price,Fixed Price,1,50000,init.af0349b6-686e-4b7f-a151-167df0295c81
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.665c4027-021c-4397-b65e-66b0733a993f
+,,,,,Product Variant,Sales Price,Fixed Price,1,12500,init.8a5a7f03-3ab7-405e-aed2-b7d4fe300670
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.ffe2449e-b66b-42de-b1bc-86040fef73ae
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.773c2ab1-c9c1-4876-bb17-36e763209ce2
+,,,,,Product Variant,Sales Price,Fixed Price,1,5000,init.5eb48539-7d52-4609-95a9-e8edae2773ba
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.5e0e50bc-9364-4e9f-a28a-1f97f2917bbc
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.361d4a11-ca9f-4830-acb5-fb959c1b4b80
+,,,,,Product Variant,Sales Price,Fixed Price,1,22500,init.185cc2f1-7eae-4deb-9851-31be4b94daa0
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.61e562b8-4c84-4116-b325-1a4fa0ab64a1
+,,,,,Product Variant,Sales Price,Fixed Price,1,3000,init.94339316-690b-47e0-8e09-c0198d3e1e37
+,,,,,Product Variant,Sales Price,Fixed Price,1,2500,init.52729d23-a532-42c5-af9c-7c4fafa5df24
+,,,,,Product Variant,Sales Price,Fixed Price,1,12500,init.6e665070-8fd6-42cf-af2f-13ed6ab27abf
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.d02d63ba-6431-4ab0-8d20-3bee88fdaf36
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.6859c6e0-2a91-4190-844d-d40737e0ca3a
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.e964f3b1-2799-4f4c-a63a-6815f0be74f1
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.eb09ef62-c658-441d-8410-81109d70b9be
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.163df084-f674-44bc-8634-6bc051c21da7
+,,,,,Product Variant,Sales Price,Fixed Price,1,23000,init.64a35de2-1d8f-4c5a-81e1-9ad6b2ff040e
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.63c35e69-9ce6-41c3-ba0d-cdff67175edb
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.85fedea4-6b8c-4e5b-a701-8c6553b33468
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.cafc67a9-2f2a-498d-a79c-265d972c82bf
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.70ed8828-d53c-4078-9190-675e8b0e4587
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.e2f49bb3-3f01-4dc8-b4e3-4c5525ec0743
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.e6841b5f-74c5-46ff-9822-13ae3becd127
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.8a9abcf2-77fd-4964-a7fd-a7f2b4d5606f
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.db1e0d1b-faed-4383-97db-ab54bc483758
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.028f475f-657d-4a48-9a4e-37d33867b3db
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d79e6c23-8518-499c-92ba-79feac42d8f7
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.b30cd7da-da89-41b4-a099-cf42a54e6438
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.f4d5e4cc-76f1-400a-95d8-bfab6674f2e6
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.e21ab1eb-e269-47d2-8f15-c04a7864a561
+,,,,,Product Variant,Sales Price,Fixed Price,1,55000,init.f0f22d75-b5c3-4447-83e0-fddf48727dbd
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.b374105c-4777-46b3-9af4-78e598582d74
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.375fa19b-61d2-4d57-b353-2bcd4346d661
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.295d7076-a6af-4ce8-8bef-e39616a5f87d
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.119a6814-298a-407c-9c32-2a438a90360c
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.89cb4e88-9a81-40fb-a82d-3da6dbe00cc4
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.c94b4d7f-ded9-4e69-b718-1f1b50fc7247
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.e5543ee9-f205-4f74-8e64-80258e71266c
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.a8855f0e-7496-4c2b-8ce1-a5252cd09c5c
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.e0d71b2e-f47b-4799-8e7b-2278749f2619
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.d2f43828-2a52-4404-b58b-16d36e8ebd7e
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.4df1905e-1597-4f75-aa74-e9eb46bde7bd
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.ec739b82-3e0d-430d-8bd5-8a53b6aa50f0
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.32937ed3-d874-4cf1-9bb8-d61c51dfffa0
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.ea4135d7-19c5-4221-a269-782c8b44d8e6
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.3ba6e232-c584-4c07-b229-e98e32f29b2f
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.4309907d-3090-4251-9896-13ca2f3266dd
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.57a005b8-c23b-4ee0-9099-8019796b6eeb
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.8f2c0419-e4a2-43c4-b4a2-4e153c0ffd3b
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.207a41c3-5a29-46f7-8bce-8dd9a72d90b8
+,,,,,Product Variant,Sales Price,Fixed Price,1,5500,init.55236fd7-f059-4608-a6cb-4801a0a834c2
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.4f98f50f-36a4-455d-83df-7265ae7e0814
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.e3703746-0e4a-4c29-aeb1-f2e536f27cf7
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.8d226514-a8c5-4fc4-96c1-51774079ca47
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.5d94a966-1691-44a0-bf06-b48860ffb758
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.6a54a9bd-6d00-47b8-953f-bd79ac63b87e
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.450ce173-ea9e-4aa9-b2dc-d8070237c1a4
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.1f450fae-2340-4d30-89bc-73ab5a139b67
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.4d6f2d17-debf-45d6-815b-b3c13f06d7cd
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.3564b9b5-39eb-4025-ba8f-d05ac5773cdb
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.eb874096-70da-4fbc-a89f-c7611a5280a7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.6505a44e-5405-4031-9b1a-778d36a58811
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.4031be8f-a52c-4cf5-bd56-91b6f91d1565
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.6366225b-ab78-4513-b9fa-bb6a166c4b55
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.97302d3e-89e2-45cc-9a98-5777c4d202a7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.9c2c3ba9-5240-421e-a53f-2159f0243c79
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.b526bc83-19a7-4ff2-9dc0-5300daba2751
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.97ccf29b-b949-462f-b4bd-95efdd3e7441
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.a9283050-20d3-4fc3-8172-d2c49c54f36c
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.32c7a6ce-b7f3-48ff-ad9c-79df4ca49360
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.a69d88b1-281b-4535-a431-809e4fae535c
+,,,,,Product Variant,Sales Price,Fixed Price,1,17500,init.3adfe531-3235-4c45-8661-4994c497cc38
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.eb6fcf84-19f0-4ed3-ac7e-1d7a772d01a9
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.93c675b4-d25f-484d-96fd-194d8ed98d4d
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.8f091125-e6cb-4204-b7be-b44737ad7bd4
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.12f65ae5-730d-49dc-a26f-b79ae32e9398
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.a587d6dc-03f3-478e-806c-a6e8ee7c2e82
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.ab82c53f-9065-472d-a988-e22eba553962
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.ed521b03-4b1d-4ea9-98c2-3251bbd50c1d
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.65bb48cf-001e-42f0-88a6-70a9f710cdb0
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.4c9bc307-2b68-4b07-97bd-b688e903c334
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.33c24b9e-2d07-4ab3-a59d-ef9eda3c756a
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.d2419d93-8b57-4ae9-9415-5b28309f46f2
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.cf6539fc-b1ba-435a-a1d6-17e4514ac748
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.99727bbd-aa6c-4525-83ff-d5f24d162b69
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.bc314c1f-4ab4-4f17-b0c4-269a101ce0c7
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.1db4e233-547e-4b9f-a36b-f12aaa3df0cf
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.84d1c981-63fd-474c-ae3b-931c58865c09
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.f8816af9-8d5c-40a3-b6df-3c3360d85d6d
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.810b25e2-3f10-428a-ab3c-35c36706c805
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.5c9279c6-21f5-47eb-8c4a-f970e642bd5e
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.f89632f2-b520-46f3-bd91-5b6ec21c0a5e
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.0d50d17d-550f-42a5-89c2-e808f566a351
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.54e9504d-7359-4eb7-9db2-c9f6144166a9
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.93ad8dce-0e09-4110-9474-47bd39781f6b
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.a4f61af8-4550-4144-b8b5-61c5111b12a3
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.62b7ed83-6a79-47c4-ac92-8a500115351f
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.1a20ea0e-03cc-437f-8b46-c9600c1874c4
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d406065b-b1ee-4ff3-8a39-1b61c7202727
+,,,,,Product Variant,Sales Price,Fixed Price,1,12500,init.586591bb-f67e-47b8-a708-76db570f1167
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.a313fb09-1425-43f7-8a77-544ddaec57e7
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.9043dfdd-2a05-4f53-bd63-a06c07c7f111
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.70aef106-991e-451c-8b0e-fce2b89a1aeb
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.57c96d6d-921a-4e54-a920-ea8a2be52d5b
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.9495b189-d15d-45ee-af26-9008448ddc64
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.953be943-467a-4f13-95b7-f4d94873b8cb
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d553d1b7-ec2b-49c9-a5f2-4d9837c935e9
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.ca8211d3-05c0-4c7e-8e1c-549f9a1508e7
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.1632fcd9-3f2e-4c48-bcff-1e96472322da
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.bfa9c5c4-4c41-4599-983a-865034862203
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.591f9ecd-fe2b-414f-a3dc-cb9b7c587338
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a7b062c9-5c87-4af6-a68d-e6024b9ec3e8
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.cef36522-b321-4984-93e4-e92770326deb
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.f482e108-ca8d-47b4-bfde-0e4bfd44d7b7
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.7f3df511-2ec2-4c2b-bb6f-a10c8f1230bb
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a300fd89-f424-4632-85a5-8252f260c38f
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a2cdc219-dda2-472e-a377-b764a8db217a
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.597b981d-1ecd-44da-8203-d91b62d97d92
+,,,,,Product Variant,Sales Price,Fixed Price,1,8000,init.30847ace-cb79-4b91-be01-6c7b1f6e039f
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.5c4c2f24-a607-44c1-8236-fa8bd9bcbd96
+,,,,,Product Variant,Sales Price,Fixed Price,1,17000,init.88f40468-52ea-4c2d-a892-9297f295604c
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.8244f2f7-ba70-476f-9d60-92a8790d909e
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.410df63f-7e88-4b72-87b5-7db3462ceba1
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.70dc9b52-3e51-45d4-9427-9cf1f76717bb
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.2623bfd6-1d45-4ff3-93f5-a86e3eeb0c48
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.dc7ff57f-1194-4198-812a-8fc86ae1e53f
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.d4bd0764-6ffb-4c6c-befe-73fe1756f089
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.b4975638-6a76-448f-bc79-d507f807fbf9
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.d7a853e1-d989-44d1-aff2-c77162502209
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.3ddd6df5-5978-448d-93c1-d13ea14f596b
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.c5c9d0b6-6f75-4d33-8ab9-77a78244c784
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.bd266d16-701b-4006-92a7-20a0fc5fe552
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.e31c4915-e07a-4610-9933-9eba9e1de379
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.49fed095-034e-40e4-96e6-488bb0f25c31
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.472c37d7-a8f0-42ea-9f26-f2b4f8d1a278
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.823802f1-3d94-486f-9da4-4ad29ce0cdcf
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.c85a9abf-563c-4a6e-ac34-8d4a1cc2309c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.59503a92-8050-4aef-b5ce-dd58d5055925
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.52223d49-f8da-4c4e-815a-a2ec6c4081e7
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.63b7fd70-419a-4f37-a91d-2d21592d3b79
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.ba79d295-36a7-4503-b8c8-7b980500f1ac
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.5216a84b-ac5b-4566-a58b-5b2d4fbdaad8
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.bd4d9020-9ee8-421c-8e94-bf6f944c3d00
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.0e7e800c-56e0-4cde-a60a-eb712540222a
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.8566ff37-280c-4814-a3db-891e6cc3dcb6
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.cf1cfff9-2411-4cc5-91bf-d29bcbfbb8a0
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.0fb9a57f-3c72-450a-9c2d-770be5c18804
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.ca89200d-e3eb-49a0-84fc-11c24772ea4d
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.f8bcd75d-4d47-46ef-b532-0f0059169c2d
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.a51b261a-2b48-4884-9b37-5d8bb1582be8
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.7fffd487-2ccd-404f-bcda-de253147dd1a
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.549220f7-31c5-4856-94fa-f940e982d18b
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.4019c19b-3f92-4951-a814-23c70fa2e198
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.1db45866-4cac-47cf-8e7a-1e7edab26f8b
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.af921c99-c046-4b3f-91fe-5914bf771f12
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.31dff92a-77a8-4eb0-aadd-e49146b7ba98
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a1ebf702-9fe0-4e11-b941-fe2ad250cb6b
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.79c483e1-64d8-439d-a84a-5018f2ccbab5
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.6bcebcd9-affa-44f5-aea1-6399428d7c20
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.f9d291a7-5395-4aa2-a40d-6028b1fbf55c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.7e2ce74c-f7e6-4f8c-96dd-5f5383e73f4e
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.b91814fd-513d-4703-bac3-08f3be68ffdf
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.9519bda1-a700-4d96-9e42-be23c25127b2
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.949d4bf4-04a2-4f8c-aa86-d313ad9690c3
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.b3f70af0-3ac2-47ac-95c4-8498de57f6a9
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.5f10589a-06fc-4a20-8451-56ed387ef746
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.7fd2d013-92eb-4010-9cad-f5a5127775dd
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.7f6c525b-3bc9-4f80-b71d-d944099a085b
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.f7311a62-156f-40a1-9232-82a2567e01d2
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.ea138849-91cd-41fb-9c71-7796878fc3f7
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.df8085bc-7d83-47e1-a39c-e11fc3d7c92b
+,,,,,Product Variant,Sales Price,Fixed Price,1,3000,init.476b2a10-635b-4e44-a7a2-028aa6c269dd
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.cea7d3b1-fd94-41c7-b571-ccf710216551
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.72071b51-5ad7-4b07-ba07-d1d6a67e44c1
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.ae794070-0b67-4b71-858d-c926f8158227
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.c0aa7197-c73d-4b37-bd72-0e50dea5186d
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.f2426dea-8304-49cb-820e-dfa6295b5932
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.4d5dd10a-59da-4b1d-ac3f-06fb139c0937
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.1b4360a3-da0d-4a63-9b6a-92d7b1ae14c8
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.7c23f3a4-19e4-4266-9c50-33bac07147ab
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.acc5fd6f-7cf7-4459-bfc3-d00764a0c25f
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.ce82da78-ac98-49a8-81c8-59977f61f3f4
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.0f5d7912-e2b8-4b61-a0f6-7e410a296f1b
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.4712a737-a54d-4258-a12e-b6ee96070a56
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.f44618c8-d424-4b91-a41d-9cc35c044145
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.3bc60347-7d56-416f-a8f8-b31b8c52a3a9
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.bb328306-984e-44bc-82b8-4c61393373b7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.43eec935-cac4-4f1c-ae70-40c145f7a34d
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.6f397298-636d-4a77-9ad8-4f3b812752ed
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.bc196611-b3ae-4eea-a2b3-7236c0ffa96a
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.644fd616-4517-4aa5-9f5a-9585ac9050de
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.be93b835-82ee-4cb2-bced-68ec4ac45811
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.9b6c892a-e222-4720-bff5-ab1baaa5ed3c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.9ca5a139-0520-4580-8e22-e856647256cd
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.26dbc71d-413d-4595-9c82-e582f216ad96
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.c8a4519d-2d22-44cf-83d0-bd6ed989aa0f
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.20a5e18a-ad9c-4f48-80ba-55c7fcab5eb9
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.0d8d7c13-8c50-46fe-acac-243361691476
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.272d411d-c151-4a1f-80e5-7068aee74cb2
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.e41293cf-efcc-47c3-9719-b01a020dd3f9
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.6cad3736-7183-4b08-8477-d5f340d22768
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.2afcf7e7-061b-4735-8571-6bcd1bd36aae
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.58dcd0a7-6851-457d-9a42-5721f1c924c4
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.b5d7bde5-39b0-45e6-beef-859475ccb1be
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.c951f782-0189-4309-b89c-6a5470397f76
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.a2021dbb-138d-4601-b3e4-3a371872320b
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.1bbdbfa5-7856-49d3-9d54-4320bf13c210
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.24b301cc-3ddc-4e2b-a8f3-19d53263a846
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.ff033096-f417-426c-9535-3efdf26be5f7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.842b9004-ba76-41bc-bff6-ae7e1340f2f9
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.0fe32dfb-e8e2-4887-a003-bb4f100532eb
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.5af985d1-9466-432d-b396-7757f7d10ea0
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.7efbb578-5ff4-4c3c-94fa-4e0211ed1c83
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.ca7be3cd-0a4c-4cfd-b0e6-e7d4aa1910af
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.e3f4d6d1-41a8-4218-a7b2-068839d75de2
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.57144ec9-197e-457e-8dc0-5eb6e5d1c77d
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.5371cdc7-769b-4a70-a69c-a0d622475df0
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.3d93d0f0-6b0b-4903-82b7-2265bc72ecec
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a94b76ef-01d2-4097-bf4a-1ecc10dbfa8f
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.91d7fea7-2a7f-435a-8fdd-fd820b94c4ad
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.f6a2fd21-2c30-4354-9b7c-c5cd792f5796
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.76c19c5b-754d-4b2e-810d-e70115bd5fb4
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.163f759f-b4e9-428a-94e6-b3b32d0d55a2
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.5f922f68-2312-4f15-a250-cd2cd0f03418
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.0a51292e-cc89-412a-b15f-b09c25335afb
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.4a6df804-5163-49eb-9718-95c5a07d3b73
+,,,,,Product Variant,Sales Price,Fixed Price,1,50000,init.3cbd1669-2309-427f-97be-47332fe5889f
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.cbdb807b-2424-46e6-8d9c-6edb49ba3409
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.b63d1721-7a7c-4145-a894-fb95f88312e6
+,,,,,Product Variant,Sales Price,Fixed Price,1,12500,init.d1df8b82-e4a8-47b3-bfdb-7a9cfdddb696
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.20ff23b8-2e88-43e9-8cb2-73f619024606
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.7f3cdda6-fc61-4919-94fe-e8b5e4e2d232
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.5ced2a7b-42c2-4478-9e80-d5eab3f11e0c
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.25ce7a5d-6dc7-4bd2-a12a-3f39a01c3b14
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.fea19a91-a2ad-471e-b9ca-7869c085b1bc
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.e62c8971-735c-4736-b59c-f780078c3ebf
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.257affdc-a563-41a7-835b-15f5a5d30166
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.db693772-b8eb-4930-8b03-90f69a13ea32
+,,,,,Product Variant,Sales Price,Fixed Price,1,35000,init.f93c8dd2-792c-46d0-9198-c9c3a2b0026a
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.3f2fc969-3f84-4133-a2fb-7300df1b543c
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.2a2840a7-59d1-448f-a7f3-be0f5fb5ee2f
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.fdf99591-dc0d-4400-9cd2-3e7ea720317c
+,,,,,Product Variant,Sales Price,Fixed Price,1,20000,init.93a477b5-cd8c-4418-a27a-84853ea5537c
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.33b09bac-f458-4c57-8ed6-fdb04c7c9da5
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.880de8a3-b9c8-4885-8f6e-7d629502060b
+,,,,,Product Variant,Sales Price,Fixed Price,1,50000,init.975c8f54-ae6f-485a-a475-edb7eb5f42e8
+,,,,,Product Variant,Sales Price,Fixed Price,1,65000,init.3ecc4598-eded-43f7-9434-0cda0a11dd59
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.7c075857-c407-430c-8266-7d515c9fd9d4
+,,,,,Product Variant,Sales Price,Fixed Price,1,45000,init.c5f571fc-2431-414c-9b4c-c6231fd23ab7
+,,,,,Product Variant,Sales Price,Fixed Price,1,25000,init.a3a7ee6a-2cf2-4757-91ad-b39b19bd8ea7
+,,,,,Product Variant,Sales Price,Fixed Price,1,40000,init.391745dc-02d1-4dac-b6a7-bff9d3d7b9e7
+,,,,,Product Variant,Sales Price,Fixed Price,1,30000,init.9b31ad66-0c9f-4659-b79a-600a5af07642
+,,,,,Product Variant,Sales Price,Fixed Price,1,2500,init.8e951835-a64d-4639-a9f3-b3f12a398047
+,,,,,Product Variant,Sales Price,Fixed Price,1,2250,init.3373dc3c-c7db-4ceb-980c-765f92e85c43
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.d6a9aa22-f74d-49dd-aa17-bfdc8eff1352
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.a2797459-1a1b-4077-9a6c-7fb60b3ff3f4
+,,,,,Product Variant,Sales Price,Fixed Price,1,1200,init.cf4634b1-f8e9-40e8-9a49-764a4b6f6676
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.9d67fa5b-2542-4fd5-bae4-fc1492aa02ae
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.15370e47-f58f-42b1-9b35-2fdc288ed1dc
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.c7ac37f0-46b4-439a-b8a5-fa89aca67902
+,,,,,Product Variant,Sales Price,Fixed Price,1,1200,init.d3bd752d-86b9-46c2-bf23-1a7071a69ea1
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.838aa5c7-e589-444a-b3c6-b4c9ad5f9117
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.bb309696-687a-45a1-964d-bf4dd83d2cb0
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.fb074eab-ce2c-477a-8194-3d9a3075e1c8
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.31227b54-791a-4942-a4fb-18eec7b84caf
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.7b7a73f7-15bb-40ff-bff9-64a1ecf324be
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.b41c90d9-8901-454a-9f1b-239d4c6010bb
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.cc7ee3ba-8386-4f29-ac9e-d50e91603382
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.dfbd2dce-02b8-4954-88b2-5de248e4587d
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.6e0faed3-e29c-4e39-8b20-e3331e22c0a5
+,,,,,Product Variant,Sales Price,Fixed Price,1,2300,init.4d1e3ad4-a5bb-4abd-b7b5-36a47cd59658
+,,,,,Product Variant,Sales Price,Fixed Price,1,12500,init.0b15b116-0709-4c70-aca6-e7b64a7d9b79
+,,,,,Product Variant,Sales Price,Fixed Price,1,5000,init.b45815fe-97a2-4b74-bb70-18fccf46577e
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.c95e3b1f-e4b6-42da-98d5-9f11763db05c
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.9d8ac3c7-4ca3-4493-9adf-429955d4f2d0
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.86d68691-5711-491a-9172-fd0816de4880
+,,,,,Product Variant,Sales Price,Fixed Price,1,2700,init.85ed2353-5379-45be-ac27-ac7b82e74c0a
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.d107afc9-6a61-401a-9574-daadb7a8020c
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.f77e9735-6cea-4760-9ced-f76dc664bbc7
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.9477ff2e-02dd-4203-9ace-8fc38c3d3692
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.c266ac5a-a019-41fe-89b8-c9b0d8b1530f
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.6d393221-a82a-4674-b9be-73224eb98867
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.dd4b4f82-5f07-4fb2-8ee7-2602d413cefc
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.4f851123-73d9-4dfc-90e2-5b49fd558c6b
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.b8ce2e8b-0d20-4664-90b2-ee60ed164983
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.e389bcbb-807c-483d-9191-d39fc9de10d6
+,,,,,Product Variant,Sales Price,Fixed Price,1,1750,init.c654e09e-62d2-4754-9a0c-62d5d7240164
+,,,,,Product Variant,Sales Price,Fixed Price,1,1750,init.9212685d-a475-45ce-9aa1-2d95c6c11fed
+,,,,,Product Variant,Sales Price,Fixed Price,1,3500,init.6e3d4a12-333b-4bab-b08a-3ae35c528aee
+,,,,,Product Variant,Sales Price,Fixed Price,1,1750,init.b3a57d08-e986-4dc5-8de1-8c329cd0ad39
+,,,,,Product Variant,Sales Price,Fixed Price,1,1750,init.a35e3227-cd58-48b7-b023-4c9a5bc54587
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.4a0812b2-eb70-4ece-a11c-2e289ecb7db0
+,,,,,Product Variant,Sales Price,Fixed Price,1,1750,init.d60eb339-2d75-4fb7-b64b-8f1969ad5c4c
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.acd32f87-e994-4e16-b4fb-ec31c2d37622
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.45b32878-6869-445c-900b-f237dbf50060
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.fe238ad9-4008-46b8-9254-6a3ad68d483b
+,,,,,Product Variant,Sales Price,Fixed Price,1,1750,init.f50c9e0d-4deb-4e91-a3ce-30f49a407000
+,,,,,Product Variant,Sales Price,Fixed Price,1,1250,init.d83efa3d-0d52-40e3-88f5-ecdd4d2162e0
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.2e62356d-4458-4e71-9fd8-d51c2d2fe2f9
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.e354e5a6-0f74-4e69-a5d8-6fdd3ca4bcc2
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.7a29215f-157d-438f-9cf5-aa8e90452018
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.87d3ea87-9870-4abf-85ed-b34395a5a535
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.48ac6c8f-5a8e-4a05-92ed-4925fd7ea35c
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.24b7b4ae-34a9-44ed-878f-a44500166caf
+,,,,,Product Variant,Sales Price,Fixed Price,1,500,init.f5b7f6d6-192d-4bec-8617-729f4476b06d
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.9601b319-bea6-4ac3-a4fc-6b23259ad361
+,,,,,Product Variant,Sales Price,Fixed Price,1,750,init.3ee64230-4498-4857-99ef-5a4ebc528795
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.f6a57ad8-21a2-4132-9ec8-c711f2193367
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.a5be18cb-7385-4556-ada6-7083076715b0
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.1beb7409-ce98-4a8b-9899-64c9a4c9ad58
+,,,,,Product Variant,Sales Price,Fixed Price,1,1000,init.6dfc6ff9-93db-47c4-81cc-d580841ded3c
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.ebddf624-7323-4d70-982e-67ac98722ce5
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.9c1de0f3-8490-4a78-a66a-cb5c1b714e88
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.98d6c7bc-27bd-4683-a709-d08a0a791392
+,,,,,Product Variant,Sales Price,Fixed Price,1,2000,init.064134c0-a243-4c14-85c1-2ac61ea581c9
+,,,,,Product Variant,Sales Price,Fixed Price,1,5000,init.799a3a6a-13c7-48cb-bb9d-4f88ef88bb3d
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.53867e4b-0302-473c-81e8-d4c66f127552
+,,,,,Product Variant,Sales Price,Fixed Price,1,5000,init.12c4f274-1e0d-4935-a9e6-071db8bda75c
+,,,,,Product Variant,Sales Price,Fixed Price,1,1500,init.f5043ff3-98bd-476f-be9d-eccdf94a7c9e
+,,,,,Product Variant,Sales Price,Fixed Price,1,7500,init.3cef2071-48a2-4b16-a787-5f132139771f
+,,,,,Product Variant,Sales Price,Fixed Price,1,5000,init.7d2f5b5f-2d10-4af3-9581-5bb5690ffe59
+,,,,,Product Variant,Sales Price,Fixed Price,1,9000,init.8ba1e204-507a-498f-986f-3c454fa82018
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.8b12c191-639b-4a91-99ec-846021474859
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.315605f7-7a7b-4f85-b6d3-55a9fd5acd65
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.fb5f4a69-f209-442f-8f5e-ac88a1f87daa
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.03c6fdc2-b80b-44f5-9727-88a0220bcf14
+,,,,,Product Variant,Sales Price,Fixed Price,1,2500,init.74d5797d-b5c7-48a8-ac0f-b16cd1faae39
+,,,,,Product Variant,Sales Price,Fixed Price,1,4000,init.ba5f9e00-eab3-470b-8385-6844e9b47414
+,,,,,Product Variant,Sales Price,Fixed Price,1,3000,init.5564bebe-6655-482c-80b1-a8bd4d504b71
+,,,,,Product Variant,Sales Price,Fixed Price,1,15000,init.b60c5bd7-2856-4e34-aeb4-46c2ba0b2455
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.fdab607a-65e6-4cde-8a4a-cc97ba0eb63a
+,,,,,Product Variant,Sales Price,Fixed Price,1,17500,init.b9fa88ca-38e1-4c8e-8757-4d1437346ba4
+,,,,,Product Variant,Sales Price,Fixed Price,1,1200,init.57c82de8-fbd9-472f-bb81-298e3c760bd4
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.d7470b17-5471-4e7f-b125-2cf45d746ce2
+,,,,,Product Variant,Sales Price,Fixed Price,1,10000,init.7b2b3608-3722-49b4-bdf3-c744c5b31df8
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.d1fc1d0d-9286-4080-97aa-76fd633fd0e5
+,,,,,Product Variant,Sales Price,Fixed Price,1,4500,init.2c771270-4a5e-4c7a-ba4c-df85afc7ebbc
+,,,,,Product Variant,Sales Price,Fixed Price,1,6500,init.6c1387a7-76b2-4f94-99b5-ce8ed81b7b4b
+,,,,,Product Variant,Sales Price,Fixed Price,1,6000,init.2e2ad3d8-7433-4bcf-8a3d-6182b0ff019e
