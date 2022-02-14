@@ -1,4 +1,0 @@
-"id","active","company_id/id","name","line_ids/id","note"
-"account.account_payment_term_net","True","base.main_company","30 Days","__export__.account_payment_term_line_3","Payment term: 30 Days"
-"__export__.account_payment_term_4","True","base.main_company","60 Days","__export__.account_payment_term_line_4","Payment term: 60 Days"
-"__export__.account_payment_term_5","True","base.main_company","90 Days","__export__.account_payment_term_line_5","Payment term: 90 Days"
