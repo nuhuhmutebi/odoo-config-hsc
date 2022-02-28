@@ -1,6 +1,6 @@
 id,name,categ_id/id,type,lst_price,purchase_ok,sale_ok,invoice_policy
 init.a37a10c5-b5e6-48bf-9b54-dec61c6bb228,Abces de la marge anale,product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
-init.06a9ab43-e0d3-4ca3-85f5-f276437e44d5,Abces du Sein,product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
+init.06a9ab43-e0d3-4ca3-85f5-f276437e44d5,Abces du Sein,product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
 init.ca7dc7a0-0fcf-45e4-99a8-a4060b3df2f2,Absces du Psoas,product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.b30a14d3-de78-4ccb-b6d9-26028a9474e0,Absces intra musculaire,product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
 init.e646c4ac-61c6-4e28-8ef0-fc9e300fd356,Absces ischion-rectal,product.categ_services_general_surgery_orders,service,20000,FALSE,TRUE,Ordered quantities
@@ -8,6 +8,7 @@ init.ff24865a-3b1c-4535-a237-a9d1c5446766,Absces pilonidal,product.categ_service
 init.48dedfe4-096b-4167-9a9f-0601479f8bea,Absces residuel abdominal,product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
 init.74d18eb5-8cc8-47f2-86f2-acd90e0ccc83,Absces sous cutané,product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
 init.c75be2cb-a405-455f-a95e-0389763dcc2d,ADF (Lympectomie),product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
+init.01af89db-d57c-4a6f-8454-8a8d5b7079e8,Amputation Avant-Bras,product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
 init.fdfc9fc4-d988-4f0f-82cb-4e9ca87feb96,Anoplastie,product.categ_services_general_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
 init.3adc220d-6c23-466e-8099-d1523f619cd7,Anthrax,product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
 init.5b956ec1-6fc7-478e-9107-78d6bb8ea6a8,Appendicectomie,product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
@@ -37,7 +38,9 @@ init.8350f01e-884c-4513-a290-54484658d14f,Fissure anale/Sphincterotomie,product.
 init.5f5d2fa7-80bd-448b-abc4-e7e971b2851d,Fistule - Reparation anale,product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
 init.d49a6d2a-cc2e-4828-b864-328b2b6dbd6f,Gastrectomie,product.categ_services_general_surgery_orders,service,50000,FALSE,TRUE,Ordered quantities
 init.79f29d2d-1822-4231-99b6-1d2d47f85dd1,Gastrostomie,product.categ_services_general_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
+init.3b4ed5bf-e967-4db2-aca2-27152c43628c,Greffe de peau mince,product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
 init.31d0bb43-88f4-4e1c-ba13-b7b7319ee74b,Gynecomastie,product.categ_services_general_surgery_orders,service,20000,FALSE,TRUE,Ordered quantities
+init.d0de8250-bc78-4440-9eb7-9a599872da6c,Hemi arthropastie de la hanche,product.categ_services_general_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
 init.d8c485a0-a2ad-4801-8af0-10e0af9c857b,Hemicolectomie droite ou G,product.categ_services_general_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
 init.4f9570da-5ed1-4ff7-956c-357c63ff379a,Hemorroides,product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
 init.ba0e6fb2-8ed1-4329-826f-09cbf9eff59f,Hepatorraphie,product.categ_services_general_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
@@ -67,14 +70,15 @@ init.5c35ffa9-3751-4e27-b4d6-4e0f8d1f8c46,Nephrectomie,product.categ_services_ge
 init.11552a69-f641-4c92-ab5b-b1256f919989,Occlusion avec resection colique,product.categ_services_general_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
 init.0128ed2a-aa82-4f8e-ad3d-a26e1764bd99,Occlusion sans resection,product.categ_services_general_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
 init.7eefedbb-1085-451c-a578-0a0a9ae9d40f,Occlusion sans resection grele,product.categ_services_general_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
-init.8c6bcc4d-2932-4717-b277-947e411cf315,Onycectomie,product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
+init.8c6bcc4d-2932-4717-b277-947e411cf315,Onycectomie,product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
 init.a1e4a707-2de5-45cc-b548-1b86bae4423c,Peritonite appendiculaire,product.categ_services_general_surgery_orders,service,40000,FALSE,TRUE,Ordered quantities
 init.ceaf7353-f2ea-4daf-a7e6-69f24ca0f43c,Incision & drainage Phlegmon,product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.237a4537-ce79-4672-9328-3889e8745167,Rectal prolapsus reparation,product.categ_services_general_surgery_orders,service,20000,FALSE,TRUE,Ordered quantities
 init.52653d4f-c8cc-4c5e-9531-e3747da9c5d4,Rectocele,product.categ_services_general_surgery_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.19ac3557-3b36-4465-879c-1b8d50dead39,Reintegration Colostomie,product.categ_services_general_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
 init.9c4e3715-0c6e-4df0-abdd-98da3ff62ca4,Reparation eventration,product.categ_services_general_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
-init.683abf72-f9d2-48a4-9adb-9b885123ff04,Reprise Dilation Anale après une 1ère intervention,product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
+init.683abf72-f9d2-48a4-9adb-9b885123ff04,Reprise Dilation Anale (1ère intervention à l'HSC),product.categ_services_general_surgery_orders,service,10000,FALSE,TRUE,Ordered quantities
+init.669abc10-ed6b-4343-b3fd-845283170846,Reprise Dilation Anale (1ère intervention hors de l'HSC),product.categ_services_general_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
 init.d28a08aa-30e4-4e08-8a4d-392359d94bd2,Splenectomie,product.categ_services_general_surgery_orders,service,40000,FALSE,TRUE,Ordered quantities
 init.770a6c49-260a-48bc-8825-48c82c9c3854,Splenorraphie,product.categ_services_general_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
 init.3b81f57a-2758-4253-82ce-fe643af633d9,Stenose Hyperthrophique du pylore,product.categ_services_general_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
