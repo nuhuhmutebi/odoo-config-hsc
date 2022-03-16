@@ -30,4 +30,4 @@ init.7c075857-c407-430c-8266-7d515c9fd9d4,TURP (Prostatectomie Trans-Urethrale),
 init.c5f571fc-2431-414c-9b4c-c6231fd23ab7,Uretroplastie,product.categ_services_urology_orders,service,40000,FALSE,TRUE,Ordered quantities
 init.a3a7ee6a-2cf2-4757-91ad-b39b19bd8ea7,Uretrotomie Interne & Externe,product.categ_services_urology_orders,service,20000,FALSE,TRUE,Ordered quantities
 init.391745dc-02d1-4dac-b6a7-bff9d3d7b9e7,Varicocèle bilatérale,product.categ_services_urology_orders,service,35000,FALSE,TRUE,Ordered quantities
-init.9b31ad66-0c9f-4659-b79a-600a5af07642,Varicocèle uniatérale,product.categ_services_urology_orders,service,30000,FALSE,TRUE,Ordered quantities
+init.9b31ad66-0c9f-4659-b79a-600a5af07642,Varicocèle uniatérale,product.categ_services_urology_orders,service,25000,FALSE,TRUE,Ordered quantities

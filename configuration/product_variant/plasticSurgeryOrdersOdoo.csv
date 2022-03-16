@@ -4,7 +4,7 @@ init.229c5e7d-00b4-4de5-a754-9da64bac9099,Chéloide Multiple,product.categ_servi
 init.4db771df-22bf-46e2-afb6-2f7b78a567bf,Excision Chéloide +Réparation esthetique,product.categ_services_plastic_surgery_orders,service,20000,FALSE,TRUE,Ordered quantities
 init.e2e535b9-637d-4ba1-90db-a18c8a786d4e,Fissure palatine Réparation,product.categ_services_plastic_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
 init.c82b7334-099d-4199-bce1-ffe156887efd,Hémangiome fesse ou Neuro-fibromateux fesse,product.categ_services_plastic_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
-init.598b4e67-b605-45c9-9bf5-1877cf21211b,Plastie Vaginale,product.categ_services_plastic_surgery_orders,service,35000,FALSE,TRUE,Ordered quantities
+init.598b4e67-b605-45c9-9bf5-1877cf21211b,Plastie Vaginale,product.categ_services_plastic_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
 init.e7008425-9ac2-47d1-84d7-5ec0de8f0d9f,Reconstruction Cuisse,product.categ_services_plastic_surgery_orders,service,20000,FALSE,TRUE,Ordered quantities
 init.ab74e533-9e8d-467b-a329-3c42730275bc,Reconstruction Abdomen,product.categ_services_plastic_surgery_orders,service,30000,FALSE,TRUE,Ordered quantities
 init.4de2d738-dfe8-4fe8-a6d9-4401eba8c534,Reconstruction Cou,product.categ_services_plastic_surgery_orders,service,25000,FALSE,TRUE,Ordered quantities
