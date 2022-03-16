@@ -16,8 +16,8 @@ init.4f98f50f-36a4-455d-83df-7265ae7e0814,Plaie Cornéenne/Sclérotique-Adulte,p
 init.e3703746-0e4a-4c29-aeb1-f2e536f27cf7,Plaie Cornéenne/Sclérotique-Enfant,product.categ_services_ophtamology_orders,service,7500,FALSE,TRUE,Ordered quantities
 init.8d226514-a8c5-4fc4-96c1-51774079ca47,Pterygion,product.categ_services_ophtamology_orders,service,5000,FALSE,TRUE,Ordered quantities
 init.5d94a966-1691-44a0-bf06-b48860ffb758,Réparation Plaie de la paupière,product.categ_services_ophtamology_orders,service,5000,FALSE,TRUE,Ordered quantities
-init.6a54a9bd-6d00-47b8-953f-bd79ac63b87e,Bilan Ophtalmologique,product.categ_services_ophtamology_orders,service,250,FALSE,TRUE,Ordered quantities
+init.6a54a9bd-6d00-47b8-953f-bd79ac63b87e,Bilan Ophtalmologique,product.categ_services_ophtamology_orders,service,500,FALSE,TRUE,Ordered quantities
 init.450ce173-ea9e-4aa9-b2dc-d8070237c1a4,Champs Visuel,product.categ_services_ophtamology_orders,service,250,FALSE,TRUE,Ordered quantities
-init.1f450fae-2340-4d30-89bc-73ab5a139b67,Fondoscopie,product.categ_services_ophtamology_orders,service,500,FALSE,TRUE,Ordered quantities
-init.4d6f2d17-debf-45d6-815b-b3c13f06d7cd,Réfraction,product.categ_services_ophtamology_orders,service,750,FALSE,TRUE,Ordered quantities
-init.3564b9b5-39eb-4025-ba8f-d05ac5773cdb,Rétinoscopie,product.categ_services_ophtamology_orders,service,750,FALSE,TRUE,Ordered quantities
+init.1f450fae-2340-4d30-89bc-73ab5a139b67,Fondoscopie,product.categ_services_ophtamology_orders,service,750,FALSE,TRUE,Ordered quantities
+init.4d6f2d17-debf-45d6-815b-b3c13f06d7cd,Réfraction,product.categ_services_ophtamology_orders,service,1000,FALSE,TRUE,Ordered quantities
+init.3564b9b5-39eb-4025-ba8f-d05ac5773cdb,Rétinoscopie,product.categ_services_ophtamology_orders,service,1000,FALSE,TRUE,Ordered quantities

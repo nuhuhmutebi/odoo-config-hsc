@@ -1,19 +1,15 @@
 id,name,categ_id/id,type,lst_price,purchase_ok,sale_ok,invoice_policy
-init.bfbabb37-c7b7-4577-9e4a-5dea413d5694,Accouchement simple (suivi à l'HSC),product.categ_services_obstetrics_orders,service,7500,FALSE,TRUE,Ordered quantities
-init.8fa4db9a-49f0-49e5-883f-1d81f4b5ef10,Accouchement simple (suivi hors de l'HSC),product.categ_services_obstetrics_orders,service,10000,,,
-init.5988a452-e945-4261-acbc-e039bcd095b3,Accouchement simple + Episio (suivi à l'HSC),product.categ_services_obstetrics_orders,service,12000,FALSE,TRUE,Ordered quantities
-init.27f80e99-c46f-4cef-8fb6-41d45975de5a,Accouchement simple + Episio (suivi hors de l'HSC),product.categ_services_obstetrics_orders,service,15000,,,
+init.bfbabb37-c7b7-4577-9e4a-5dea413d5694,Accouchement simple,product.categ_services_obstetrics_orders,service,7500,FALSE,TRUE,Ordered quantities
+init.5988a452-e945-4261-acbc-e039bcd095b3,Accouchement simple + Episio,product.categ_services_obstetrics_orders,service,12000,FALSE,TRUE,Ordered quantities
 init.6232db80-2575-4bf5-9560-19b2587217bf,Annexectomie,product.categ_services_obstetrics_orders,service,35000,FALSE,TRUE,Ordered quantities
 init.3a7e96d2-db84-4b09-86e9-adf9128d4aa0,Biopsie endometriale en salle,product.categ_services_obstetrics_orders,service,8000,FALSE,TRUE,Ordered quantities
-init.76147019-540f-4e05-81a2-3fd176417331,Biopsie endometriale,product.categ_services_obstetrics_orders,service,10000,FALSE,TRUE,Ordered quantities
+init.76147019-540f-4e05-81a2-3fd176417331,Biopsie endometriale,product.categ_services_obstetrics_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.55571698-9722-4c57-bb6c-b4c8369fa3ad,Cerclage,product.categ_services_obstetrics_orders,service,20000,FALSE,TRUE,Ordered quantities
-init.8e8abf4e-1199-410c-8d79-d51b38a872d4,Césarienne (suivi à l'HSC),product.categ_services_obstetrics_orders,service,20000,FALSE,TRUE,Ordered quantities
-init.b2ef8df4-fb55-4eab-b4fc-b70b0e710b9d,Césarienne (suivi hors de l'HSC),product.categ_services_obstetrics_orders,service,25000,FALSE,TRUE,Ordered quantities
-init.af0349b6-686e-4b7f-a151-167df0295c81,Césarienne + Hysterectomie (suivi à l'HSC),product.categ_services_obstetrics_orders,service,40000,FALSE,TRUE,Ordered quantities
-init.5d1cb5f4-54e1-4d24-8e1f-e8de1dcdbd4e,Césarienne + Hysterectomie (suivi hors l'HSC),product.categ_services_obstetrics_orders,service,50000,,,
+init.8e8abf4e-1199-410c-8d79-d51b38a872d4,Césarienne,product.categ_services_obstetrics_orders,service,20000,FALSE,TRUE,Ordered quantities
+init.af0349b6-686e-4b7f-a151-167df0295c81,Césarienne + Hysterectomie,product.categ_services_obstetrics_orders,service,40000,FALSE,TRUE,Ordered quantities
 init.665c4027-021c-4397-b65e-66b0733a993f,Colposcopie simple,product.categ_services_obstetrics_orders,service,6000,FALSE,TRUE,Ordered quantities
 init.8a5a7f03-3ab7-405e-aed2-b7d4fe300670,Colposcopie + Biopsie,product.categ_services_obstetrics_orders,service,10000,FALSE,TRUE,Ordered quantities
-init.ffe2449e-b66b-42de-b1bc-86040fef73ae,Condylome vulvaire (cauterisation),product.categ_services_obstetrics_orders,service,10000,FALSE,TRUE,Ordered quantities
+init.ffe2449e-b66b-42de-b1bc-86040fef73ae,Condylome vulvaire (cauterisation),product.categ_services_obstetrics_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.773c2ab1-c9c1-4876-bb17-36e763209ce2,Conisation,product.categ_services_obstetrics_orders,service,20000,FALSE,TRUE,Ordered quantities
 init.5eb48539-7d52-4609-95a9-e8edae2773ba,Cryotherapie,product.categ_services_obstetrics_orders,service,3500,FALSE,TRUE,Ordered quantities
 init.5e0e50bc-9364-4e9f-a28a-1f97f2917bbc,Curage Digital,product.categ_services_obstetrics_orders,service,5000,FALSE,TRUE,Ordered quantities

@@ -8,7 +8,7 @@ init.eeb17000-c550-4ebc-bce6-3d8511c826b8,Exérèse Glande Salivaire,product.cat
 init.641adb47-4762-409c-bfb6-1459d43c69d9,Thyroïdectomie,product.categ_services_ent_orders,service,18000,FALSE,TRUE,Ordered quantities
 init.ef09e691-be97-4342-9f7c-13b3d2c99c57,Hydrocephalus,product.categ_services_ent_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.6521905f-f2f6-4e2b-9e60-81875b8360c0,Lympanoplastie,product.categ_services_ent_orders,service,15000,FALSE,TRUE,Ordered quantities
-init.81af7d7e-da97-476c-9608-6970fb14619f,Réparation de l'Oreille,product.categ_services_ent_orders,service,18000,FALSE,TRUE,Ordered quantities
+init.81af7d7e-da97-476c-9608-6970fb14619f,Réparation de l'Oreille,product.categ_services_ent_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.fdc68407-9e0c-4027-8db7-195181902fcd,Parotidectomie,product.categ_services_ent_orders,service,15000,FALSE,TRUE,Ordered quantities
 init.8471106c-fa95-4df2-b764-04d777799b21,Polypectomie,product.categ_services_ent_orders,service,18000,FALSE,TRUE,Ordered quantities
 init.6f1fd0cb-32cd-4d5a-a07a-00e0d8709cd2,Exérèse kyste Tyro-Glossale,product.categ_services_ent_orders,service,15000,FALSE,TRUE,Ordered quantities
