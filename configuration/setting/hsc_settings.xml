@@ -4,6 +4,7 @@
         <field name="default_purchase_method">purchase</field>
         <field name="group_stock_production_lot" eval="True"/>
         <field name="group_lot_on_delivery_slip" eval="True"/>
+        <field name="group_multi_currency" eval="True"/>
     </record>
     <function model="res.config.settings" name="execute">
         <value model="res.config.settings"
