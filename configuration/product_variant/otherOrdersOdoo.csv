@@ -6,3 +6,4 @@ init.f0ae601c-bee9-4d0c-8189-7c0e7da73108,Patient en Observation,product.categ_s
 init.e3324f1d-3d7a-4a9c-8091-a3b215de8683,Kit d'admission,product.categ_services_others_orders,service,500,FALSE,TRUE,Ordered quantities
 init.1a017ec6-3b32-4360-b1af-3e24fa8035b0,Frais de Consultation generale,product.categ_services_others_orders,service,200,FALSE,TRUE,Ordered quantities
 init.2e01fc73-0f15-4896-a60a-de680316f0c1,Frais de consultation Specialisee,product.categ_services_others_orders,service,250,FALSE,TRUE,Ordered quantities
+init.e6395fcb-11f2-4518-a58f-96501f0d9960,Morgue,product.categ_services_others_orders,service,0,FALSE,TRUE,Ordered quantities
