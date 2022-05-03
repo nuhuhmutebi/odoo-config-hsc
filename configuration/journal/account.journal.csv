@@ -11,4 +11,5 @@ init.7bad181e-d7a6-4520-9149-c5b624932721,Second Mile Program,Cash,SM,l10n_gener
 init.f3ecc8f0-736b-4432-8e3b-7f031cb73853,SOS Village d'Enfants Program,Cash,SVE,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
 init.24258ad3-c177-4762-b78b-d269c88901dd,Asile Program,Cash,ASI,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
 init.d1975e00-b755-46d5-947a-117e7fb8187e,Archeveche Program,Cash,ARC,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
-init.66374c89-d2f3-4bf0-a51e-a02f90e4ba13,Exoneration,Cash,EXO,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
+init.66374c89-d2f3-4bf0-a51e-a02f90e4ba13,Exoneration - Employee,Cash,EXE,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
+init.d923c9a8-e575-405b-8719-116ebd46763e,Exoneration - Community,Cash,EXC,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
