@@ -1,3 +1,0 @@
-id,lst_price,name,categ_id/id,type,purchase_ok,invoice_policy
-init.cc5128bd-c921-47ad-a775-0684a4cc34ce,-100,Employee Exoneration,product.categ_services_exoneration_orders,service,FALSE,Ordered quantities
-init.2ed5a874-a474-425b-9fc5-58bbcc519c0f,-100,Community Exoneration,product.categ_services_exoneration_orders,service,FALSE,Ordered quantities
