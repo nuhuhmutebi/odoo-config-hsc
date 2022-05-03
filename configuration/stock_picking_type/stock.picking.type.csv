@@ -4,3 +4,4 @@
 "init.911f6e6b-a3d2-468d-8911-740f39a93a91","Transfer to Pharmacy",TP,Internal Transfer,"init.warehouse2","init.f495f2ed-032d-459b-81d6-f3258cd931c5",init.6299466b-05bb-4cba-9acb-ba9b6d8020fd,1,0,0,0
 "init.06befd64-b2bf-419d-9c57-69bb2902cef0","Receive from Vendor",IN,Receipt,"init.warehouse2","stock.stock_location_suppliers",init.f495f2ed-032d-459b-81d6-f3258cd931c5,0,1,0,0
 "init.d200d3d1-a862-4389-b8c5-c3851e90596b","Manufacture",MFT,Manufacturing,"init.warehouse0","init.6299466b-05bb-4cba-9acb-ba9b6d8020fd",init.6299466b-05bb-4cba-9acb-ba9b6d8020fd,1,1,1,0
+"init.9bcfcc2c-855b-4a43-90c2-889da52ba9bc","Transfer to Vaccine Dispense Center",TVC,Internal Transfer,"init.warehouse0","init.6299466b-05bb-4cba-9acb-ba9b6d8020fd",init.7134ed00-064e-4270-a372-cdd6d38fdb7b,1,0,0,0
