@@ -13,3 +13,7 @@ init.24258ad3-c177-4762-b78b-d269c88901dd,Asile Program,Cash,ASI,l10n_generic_co
 init.d1975e00-b755-46d5-947a-117e7fb8187e,Archeveche Program,Cash,ARC,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
 init.66374c89-d2f3-4bf0-a51e-a02f90e4ba13,Exoneration - Employee,Cash,EXE,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
 init.d923c9a8-e575-405b-8719-116ebd46763e,Exoneration - Community,Cash,EXC,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
+init.7c4e76e5-6011-4378-bcbc-a307b1e50e24,Program Care HSC,Cash,PCH,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
+init.6ca93e80-c2f3-4101-87d6-fc56e7dd9d55,CMPP,Cash,CMPP,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
+init.b99c7186-8d3b-4183-a1b3-81b984c009be,Dette Employé et Famille,Cash,DBTEM,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
+init.83d9b02c-e557-4599-a23c-a254da977c67,Dette Population,Cash,DBTPO,l10n_generic_coa.1_cash_diff_income,l10n_generic_coa.1_cash_diff_expense
