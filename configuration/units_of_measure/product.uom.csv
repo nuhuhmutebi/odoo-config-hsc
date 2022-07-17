@@ -54,7 +54,6 @@ init.0ba46518-b728-4dc5-ba66-1cecfa4d2463,uom.product_uom_categ_unit,1,0.01,Bigg
 init.6572ac35-ee5b-406b-81b8-8ca116b66d08,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 500ml
 init.79aa858b-9bb0-425d-b773-ea5d7b713414,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 200doses
 init.3920f95e-7ee3-4b48-a8f3-4cdb695fe261,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 200ml
-init.69cc6ecc-48fa-4d49-b171-4764ef28f941,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 240ml
 init.9ad20c26-b8f8-4e47-a4fc-7f81e63ec1e8,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 250ml
 init.61809dab-d60c-4f3a-9f0a-d33c7c7f1925,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 30ml
 init.cb4fa1ec-f518-4cc2-94b0-bb29dd67a505,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 50ml
@@ -88,3 +87,10 @@ init.52fa9052-ac12-439c-a4de-662a37299a42,uom.product_uom_categ_unit,1,0.01,Bigg
 init.dc10faa8-bca0-4d77-bf77-5102209eed7b,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Bocal de 500g
 init.36fcc0f7-dd52-404b-837e-d1a9c06abc45,uom.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,Boite de 400g
 init.ffc3b45c-29a8-445d-ae06-3d2c2d4cce50,uom.product_uom_categ_unit,0.1,0.01,Smaller than the reference Unit of Measure,Suppositoire
+init.c4ca28f2-7656-4aa6-b5cc-944a7b788521,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Flacon de 150ml
+init.4bcde192-f015-479d-8dcf-4cc2a40add7f,uom.product_uom_categ_unit,1,0.01,Bigger than the reference Unit of Measure,Paquet de 100g
+init.9adc0a76-1921-4545-b66a-592cbcd088d3,uom.product_uom_categ_unit,0.1666666667,0.01,Bigger than the reference Unit of Measure,Boite de 6
+init.518f88c5-6da8-4930-8aac-6a5d605a81d5,uom.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,Tube de 15g
+init.403d1903-e1d5-4891-bef1-241429bf861d,uom.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,Tube de 10g
+init.a55c6f3f-c39a-4018-ada7-91be3f636843,uom.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,Tube de 5g
+init.52eddb09-6e4c-43a7-b0a1-713998bf9590,uom.product_uom_categ_unit,1,0.01,Smaller than the reference Unit of Measure,Vial de 1.8ml
