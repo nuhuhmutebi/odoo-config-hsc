@@ -8,7 +8,7 @@ init.1a017ec6-3b32-4360-b1af-3e24fa8035b0,Frais de Consultation generale,product
 init.2e01fc73-0f15-4896-a60a-de680316f0c1,Frais de consultation Specialisee,product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
 init.e6395fcb-11f2-4518-a58f-96501f0d9960,Morgue,product.categ_services_others_orders,service,FALSE,TRUE,Ordered quantities
 init.8f64058c-3460-4638-8a7a-fda268984ce2,Autres cliniques,product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
-init.743e1976-2c7d-4d59-a35d-be72ba6b2478,"Consultation cardiaque ",product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
+init.743e1976-2c7d-4d59-a35d-be72ba6b2478,Consultation cardiaque,product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
 init.fac5f9d8-8947-4ad1-97d1-8aafde11e226,Consultation chirurgie générale,product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
 init.e67ed0f7-486e-44a0-84a8-530fead30d30,Consultation dermatologie,product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
 init.b48c6d6c-0a84-4b6c-b728-af46ca8ad10c,Consultation diabétique,product.categ_services_consultation_orders,service,FALSE,TRUE,Ordered quantities
