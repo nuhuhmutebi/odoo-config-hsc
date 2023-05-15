@@ -12,3 +12,4 @@ init.43b84cb6-9176-4902-afc8-6cb60773508b,Prophylaxie dentaire grade 2,product.c
 init.a4d39ed5-23bc-403d-9f76-66a9291c2173,Prophylaxie dentaire grade 3,product.categ_services_dental_orders,service,FALSE,TRUE,Ordered quantities
 init.b3a9d1e3-fc5e-45a2-8d33-f78395c42034,Radiographie dentaire,product.categ_services_dental_orders,service,FALSE,TRUE,Ordered quantities
 init.930d856f-fdb0-423e-bf65-4aba8c06a941,Radiographie panoramique,product.categ_services_dental_orders,service,FALSE,TRUE,Ordered quantities
+init.8829a43d-9e22-4edf-9e0c-c0a9f6b6d7b0,Decapuchonnage,product.categ_services_dental_orders,service,FALSE,TRUE,Ordered quantities
