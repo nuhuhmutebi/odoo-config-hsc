@@ -68,3 +68,5 @@ init.cefdab88-2126-442f-95fc-d7a8a5af94e8,Vitesse de Sedimentation (VS),product.
 init.f2267a24-7d35-47ef-a221-71d39b948874,VLDL-Cholesterol,product.categ_services_lab_test_orders,service,FALSE,TRUE,Ordered quantities
 init.ca28bdb2-c032-4b2f-b33f-fd73de27b271,Widal,product.categ_services_lab_test_orders,service,FALSE,TRUE,Ordered quantities
 init.7f66be56-1d90-46f4-b849-1eeeba4fae21,Zeihl,product.categ_services_lab_test_orders,service,FALSE,TRUE,Ordered quantities
+init.533e1832-00e0-4228-a61c-6df1d68da279,Bilirubine directe,product.categ_services_lab_test_orders,service,FALSE,TRUE,Ordered quantities
+init.6d08b363-eeeb-4fe6-9377-dcf9a6443d0d,Bilirubine indirecte,product.categ_services_lab_test_orders,service,FALSE,TRUE,Ordered quantities
