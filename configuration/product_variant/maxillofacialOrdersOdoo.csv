@@ -21,7 +21,7 @@ init.7bebe672-17ef-4dc9-8998-4519a738a980,Fracture de Lefort II,product.categ_se
 init.941f4b5b-74a1-4d98-aaea-b581cb2ac973,Fracture de Lefort III,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
 init.88333bde-fe5f-4d5e-8e2a-1775e7d14166,Fracture mandibulaire,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
 init.d194eaea-f26a-4e2b-9384-03f4b5057b2c,Fracture nasale,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
-init.aa50f047-f4a5-4a88-9f96-c8a7c808420d,Fracture Zygomatique,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
+init.aa50f047-f4a5-4a88-9f96-c8a7c808420d,Fracture zygomatique,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
 init.ac9f9c72-a6ef-47b5-a8dd-1f4c7e876193,Rhinoplastie,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
 init.874ac10c-ac71-493c-8820-3580d6391e95,Tumeur bénigne du tissu mous,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
 init.eb9ea243-ac26-418e-9cb3-c1df2edc7379,Tumeur bénigne du tissu osseux,product.categ_services_maxillo_orders,service,FALSE,TRUE,Ordered quantities
