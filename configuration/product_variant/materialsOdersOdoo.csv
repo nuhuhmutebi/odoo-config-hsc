@@ -13,7 +13,7 @@ init.956cd856-cc95-4bfd-a540-353b91ff68f7,Aiguille 29G,uom.product_uom_unit,TRUE
 init.49d8e327-f84d-41c9-be6a-7ab16d928894,Aiguille Spinale 22G,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.69e5c3f5-6b79-459b-9b9b-cd6e0d480b97,Aiguille Spinale 23G,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.a639edf4-c187-49ea-b777-10e23fca73cf,Aiguille Spinale 25G,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
-init.fd2ef653-6aef-47ff-8645-100c0cb6ca9c,Aleze,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
+init.b3e11605-3977-4308-a59c-0bd28d4b2626,Aleze,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.1d13efbc-3fa4-4360-a6fe-1482dc311b52,Ambu Bag Adulte,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.7a1db63b-091d-4c3d-9bd7-d910cf6a26ce,Ambu Bag Neo,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.4f2ce720-9a48-401a-a8fa-e424413788ba,Ambu Bag Ped,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
@@ -105,7 +105,7 @@ init.7f2b5d37-894b-4060-970c-c831f9fcc9ef,"Gaze rouleau 13""x 36 yards",uom.prod
 init.2d418766-2538-4484-9468-04cd754e2cf8,Genouillère large,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.09374e82-cb8b-49c0-a405-8e6d1f3d652b,Genouillère medium,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.12711725-e182-4f3c-acd8-eabe2c6bcfbf,Genouillère small,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
-init.39b49574-674e-4515-a918-952f0d380972,Iv Set,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
+init.6034281d-03ea-4b2a-8adc-621df27c972e,Iv Set,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.19f98590-7e18-4051-a3ed-23e138a4ca3d,Kit IV START,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.71d9333b-b9f7-4bdc-be36-b99be5228490,Kit pansement,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.1b2cec9f-63e9-4a8b-a40f-44e2e3118281,Kit pour suture,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
@@ -187,5 +187,5 @@ init.43fbffb2-f477-4ca4-99ec-e1468aef43a1,Vicryl 3-0,uom.product_uom_unit,TRUE,T
 init.c73c937a-1e09-41aa-a374-4081e4a1be49,Vicryl 4-0,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.bd9c0730-b581-44af-89fe-76aca91a375d,Vicryl 5-0,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.a49a1c44-d1c2-45f9-a6b6-6cdb9993fbe5,Vicryl 6-0,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
-init.5b15ba1b-75e4-4af8-8353-b3357154509c,Voie Centrale,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
+init.ca860042-8dab-4b7c-a8f9-2421b53d0438,Voie Centrale,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
 init.60cc51f6-7f46-4a07-94c7-2fa47297e4c4,Xeroform,uom.product_uom_unit,TRUE,TRUE,product.categ_products_materials_orders,product,Ordered quantities
